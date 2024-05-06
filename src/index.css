@@ -30,11 +30,11 @@ body {
   height: 350px;
   overflow: hidden;
   & img {
-    /* filter:blur(3px); */
-    transition: transform 0.3s;
+    
+    transition: transform 0.5s ease-in-out;
     height: 100%;
     width: 100%;
-    filter: sepia(5);
+    
   }
   &:hover {
     box-shadow: 3px 3px 20px 5px rgba(0, 0, 0, 0.5);

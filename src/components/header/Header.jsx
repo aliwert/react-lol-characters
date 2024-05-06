@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Container>
       <Image src={logo} width="200px" /><br/>
-      <h1 className="my-2 title">FOOTBALL LEGENDS</h1>
+      <h1 className="my-2 title">League Of Legends Characters</h1>
     </Container>
   );
 };
