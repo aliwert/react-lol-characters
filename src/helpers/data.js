@@ -696,10 +696,10 @@ export const data = [
     name: "Jayce",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt51557edc36ad88a1/5db05fcf0b39e86c2f83dc13/RiotX_ChampionList_jayce.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "5.14 % Pick Rate",
+      "48.78 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "2.3 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/paolo-maldini/profil/spieler/5803",
@@ -710,9 +710,9 @@ export const data = [
     name: "Jhin",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbf6c70d9272a5a2a/5db05fcfe9d7526ab429e532/RiotX_ChampionList_jhin.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
-      "48.86 % Loss Rate",
+      "14.65 % Pick Rate",
+      "50.99 % Win Rate",
+      "3.34 % Loss Rate",
       "12.29 % Ban Rate",
     ],
     profile:
@@ -737,10 +737,10 @@ export const data = [
     name: "K'Sante",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte7545766d0c1e829/636048e02d878355fecde0ee/RiotX_ChampionList_ksante.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "2.93 % Pick Rate",
+      "45.41 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.6 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/philipp-lahm/profil/spieler/2219",
@@ -751,10 +751,10 @@ export const data = [
     name: "Kai'Sa",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte38dc660dfe79204/5db05fce2dc72966da74670c/RiotX_ChampionList_kaisa.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "15.19 % Pick Rate",
+      "47.89 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "2.34 % Ban Rate",
     ],
     profile: "https://www.transfermarkt.com.tr/rivaldo/profil/spieler/3372",
     official_career: "1991-2016",
@@ -764,10 +764,10 @@ export const data = [
     name: "Kalista",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb7f0196921c74e8c/5db05fcee9d7526ab429e52c/RiotX_ChampionList_kalista.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "2.88 % Pick Rate",
+      "47.43 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.11 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/robert-lewandowski/profil/spieler/38253",
@@ -778,10 +778,10 @@ export const data = [
     name: "Karma",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt39748c7b67252d6f/5db05fd70b39e86c2f83dc19/RiotX_ChampionList_karma.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "7.16 % Pick Rate",
+      "47.71 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "5.58 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/roberto-baggio/profil/spieler/4153",
