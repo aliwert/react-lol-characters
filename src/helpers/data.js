@@ -49,7 +49,7 @@ export const data = [
       "3.95 % Ban Rate",
     ],
 
-    role: "1996-Present",
+    role: "Solo - Mid",
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const data = [
       "1.25 % Ban Rate",
     ],
 
-    role: "2006-Present",
+    role: "Support",
   },
   {
     id: 6,
@@ -75,7 +75,7 @@ export const data = [
       "1.15 % Ban Rate",
     ],
 
-    role: "1999-2022",
+    role: "Jungle - Support",
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ export const data = [
       "1.51 % Ban Rate",
     ],
 
-    role: "1992-2020",
+    role: "Mid - Support",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const data = [
       "0.78 % Ban Rate",
     ],
 
-    role: "1956-1980",
+    role: "Mid",
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ export const data = [
       "0.73 % Ban Rate",
     ],
 
-    role: "1958-1979",
+    role: "ADC",
   },
   {
     id: 10,
@@ -127,7 +127,7 @@ export const data = [
       "5.6 % Ban Rate",
     ],
 
-    role: "2001-2019",
+    role: "ADC - Support",
   },
   {
     id: 11,
@@ -140,7 +140,7 @@ export const data = [
       "8.56 % Ban Rate",
     ],
 
-    role: "1995-Present",
+    role: "Mid",
   },
   {
     id: 12,
@@ -153,7 +153,7 @@ export const data = [
       "0.9 % Ban Rate",
     ],
 
-    role: "2000-2023",
+    role: "Mid",
   },
   {
     id: 13,
@@ -166,7 +166,7 @@ export const data = [
       "0.38 % Ban Rate",
     ],
 
-    role: "1976-1998",
+    role: "Support",
   },
   {
     id: 14,
@@ -179,7 +179,7 @@ export const data = [
       "6.17 % Ban Rate",
     ],
 
-    role: "1991-2019",
+    role: "Jungle",
   },
   {
     id: 15,
@@ -192,7 +192,7 @@ export const data = [
       "31.35 % Ban Rate",
     ],
 
-    role: "1947-1973",
+    role: "Support",
   },
   {
     id: 16,
@@ -205,7 +205,7 @@ export const data = [
       "9.65 % Ban Rate",
     ],
 
-    role: "1960-1979",
+    role: "Mid - Support",
   },
   {
     id: 17,
@@ -218,7 +218,7 @@ export const data = [
       "0.96 % Ban Rate",
     ],
 
-    role: "1942-1967",
+    role: "Support",
   },
   {
     id: 18,
