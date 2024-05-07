@@ -771,10 +771,10 @@ export const data = [
     name: "Katarina",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb73e3edb5937676a/5db05fd7823d426762825feb/RiotX_ChampionList_katarina.jpg?quality=90&width=250",
     statistics: [
-      "6.27 % Pick Rate",
-      "49.38 % Win Rate",
-      "48.86 % Lose Rate",
-      "7.9 % Ban Rate",
+      "6.27% Pick Rate",
+      "49.38% Win Rate",
+      "50.62% Lose Rate",
+      "7.9% Ban Rate",
     ],
 
     official_career: "1997-2018",
@@ -784,10 +784,10 @@ export const data = [
     name: "Kayle",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt2c7675893b5c76bc/61b1ed442d06ff39b6c6336b/RiotX_ChampionList_kayle_v4.jpg?quality=90&width=250",
     statistics: [
-      "4.69 % Pick Rate",
-      "51.86 % Win Rate",
-      "48.86 % Lose Rate",
-      "1.62 % Ban Rate",
+      "4.69% Pick Rate",
+      "51.86% Win Rate",
+      "48.14% Lose Rate",
+      "1.62% Ban Rate",
     ],
 
     official_career: "1992-2011",
