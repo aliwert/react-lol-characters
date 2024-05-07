@@ -26,7 +26,7 @@ const LegendCard = ({legend}) => {
                 </li>
               ))}
             </ul>
-            <span>{legend.official_career}</span>
+            <span>{legend.role}</span>
           </>
         )}
       </Card>

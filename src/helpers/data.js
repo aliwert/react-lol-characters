@@ -10,7 +10,7 @@ export const data = [
       "12.29 % Ban Rate",
     ],
 
-    official_career: "1994-2015",
+    role: "1994-2015",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const data = [
       "14.52 % Ban Rate",
     ],
 
-    official_career: "1944-1967",
+    role: "1944-1967",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const data = [
       "17.84 % Ban Rate",
     ],
 
-    official_career: "1971-1990",
+    role: "1971-1990",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const data = [
       "3.95 % Ban Rate",
     ],
 
-    official_career: "1996-Present",
+    role: "1996-Present",
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const data = [
       "1.25 % Ban Rate",
     ],
 
-    official_career: "2006-Present",
+    role: "2006-Present",
   },
   {
     id: 6,
@@ -75,7 +75,7 @@ export const data = [
       "1.15 % Ban Rate",
     ],
 
-    official_career: "1999-2022",
+    role: "1999-2022",
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ export const data = [
       "1.51 % Ban Rate",
     ],
 
-    official_career: "1992-2020",
+    role: "1992-2020",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const data = [
       "0.78 % Ban Rate",
     ],
 
-    official_career: "1956-1980",
+    role: "1956-1980",
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ export const data = [
       "0.73 % Ban Rate",
     ],
 
-    official_career: "1958-1979",
+    role: "1958-1979",
   },
   {
     id: 10,
@@ -127,7 +127,7 @@ export const data = [
       "5.6 % Ban Rate",
     ],
 
-    official_career: "2001-2019",
+    role: "2001-2019",
   },
   {
     id: 11,
@@ -140,7 +140,7 @@ export const data = [
       "8.56 % Ban Rate",
     ],
 
-    official_career: "1995-Present",
+    role: "1995-Present",
   },
   {
     id: 12,
@@ -153,7 +153,7 @@ export const data = [
       "0.9 % Ban Rate",
     ],
 
-    official_career: "2000-2023",
+    role: "2000-2023",
   },
   {
     id: 13,
@@ -166,7 +166,7 @@ export const data = [
       "0.38 % Ban Rate",
     ],
 
-    official_career: "1976-1998",
+    role: "1976-1998",
   },
   {
     id: 14,
@@ -179,7 +179,7 @@ export const data = [
       "6.17 % Ban Rate",
     ],
 
-    official_career: "1991-2019",
+    role: "1991-2019",
   },
   {
     id: 15,
@@ -192,7 +192,7 @@ export const data = [
       "31.35 % Ban Rate",
     ],
 
-    official_career: "1947-1973",
+    role: "1947-1973",
   },
   {
     id: 16,
@@ -205,7 +205,7 @@ export const data = [
       "9.65 % Ban Rate",
     ],
 
-    official_career: "1960-1979",
+    role: "1960-1979",
   },
   {
     id: 17,
@@ -218,7 +218,7 @@ export const data = [
       "0.96 % Ban Rate",
     ],
 
-    official_career: "1942-1967",
+    role: "1942-1967",
   },
   {
     id: 18,
@@ -231,7 +231,7 @@ export const data = [
       "18.63 % Ban Rate",
     ],
 
-    official_career: "1953-1972",
+    role: "1953-1972",
   },
   {
     id: 19,
@@ -244,7 +244,7 @@ export const data = [
       "11.97 % Ban Rate",
     ],
 
-    official_career: "1977-1998",
+    role: "1977-1998",
   },
   {
     id: 20,
@@ -257,7 +257,7 @@ export const data = [
       "4.49 % Ban Rate",
     ],
 
-    official_career: "1964-1984",
+    role: "1964-1984",
   },
   {
     id: 21,
@@ -270,7 +270,7 @@ export const data = [
       "1.65 % Ban Rate",
     ],
 
-    official_career: "1937-1960",
+    role: "1937-1960",
   },
   {
     id: 22,
@@ -283,7 +283,7 @@ export const data = [
       "0.67 % Ban Rate",
     ],
 
-    official_career: "1963-1983",
+    role: "1963-1983",
   },
   {
     id: 23,
@@ -296,7 +296,7 @@ export const data = [
       "0.17 % Ban Rate",
     ],
 
-    official_career: "1961-1985",
+    role: "1961-1985",
   },
   {
     id: 24,
@@ -309,7 +309,7 @@ export const data = [
       "22.45 % Ban Rate",
     ],
 
-    official_career: "1982-2002",
+    role: "1982-2002",
   },
   {
     id: 25,
@@ -322,7 +322,7 @@ export const data = [
       "5.51 % Ban Rate",
     ],
 
-    official_career: "1960-1979",
+    role: "1960-1979",
   },
   {
     id: 26,
@@ -335,7 +335,7 @@ export const data = [
       "3.22 % Ban Rate",
     ],
 
-    official_career: "1958-1979",
+    role: "1958-1979",
   },
   {
     id: 27,
@@ -348,7 +348,7 @@ export const data = [
       "15.38 % Ban Rate",
     ],
 
-    official_career: "2000-2024",
+    role: "2000-2024",
   },
   {
     id: 28,
@@ -361,7 +361,7 @@ export const data = [
       "1.92 % Ban Rate",
     ],
 
-    official_career: "1927-1948",
+    role: "1927-1948",
   },
   {
     id: 29,
@@ -374,7 +374,7 @@ export const data = [
       "0.75 % Ban Rate",
     ],
 
-    official_career: "1963-1977",
+    role: "1963-1977",
   },
   {
     id: 30,
@@ -387,7 +387,7 @@ export const data = [
       "7.23 % Ban Rate",
     ],
 
-    official_career: "1979-1998",
+    role: "1979-1998",
   },
   {
     id: 31,
@@ -400,7 +400,7 @@ export const data = [
       "5.02 % Ban Rate",
     ],
 
-    official_career: "1992-2014",
+    role: "1992-2014",
   },
   {
     id: 32,
@@ -413,7 +413,7 @@ export const data = [
       "1.11 % Ban Rate",
     ],
 
-    official_career: "1959-1984",
+    role: "1959-1984",
   },
   {
     id: 33,
@@ -426,7 +426,7 @@ export const data = [
       "5.84 % Ban Rate",
     ],
 
-    official_career: "1964-1985",
+    role: "1964-1985",
   },
   {
     id: 34,
@@ -439,7 +439,7 @@ export const data = [
       "10.81 % Ban Rate",
     ],
 
-    official_career: "2000-2017",
+    role: "2000-2017",
   },
   {
     id: 35,
@@ -452,7 +452,7 @@ export const data = [
       "0.79 % Ban Rate",
     ],
 
-    official_career: "1968-1991",
+    role: "1968-1991",
   },
   {
     id: 36,
@@ -465,7 +465,7 @@ export const data = [
       "1.55 % Ban Rate",
     ],
 
-    official_career: "2011-Present",
+    role: "2011-Present",
   },
   {
     id: 37,
@@ -478,7 +478,7 @@ export const data = [
       "5.15 % Ban Rate",
     ],
 
-    official_career: "2005-Present",
+    role: "2005-Present",
   },
   {
     id: 38,
@@ -491,7 +491,7 @@ export const data = [
       "0.5 % Ban Rate",
     ],
 
-    official_career: "2000-Present",
+    role: "2000-Present",
   },
   {
     id: 39,
@@ -504,7 +504,7 @@ export const data = [
       "2 % Ban Rate",
     ],
 
-    official_career: "1975-2001",
+    role: "1975-2001",
   },
   {
     id: 40,
@@ -517,7 +517,7 @@ export const data = [
       "2.58 % Ban Rate",
     ],
 
-    official_career: "1987-2010",
+    role: "1987-2010",
   },
   {
     id: 41,
@@ -530,7 +530,7 @@ export const data = [
       "1.62 % Ban Rate",
     ],
 
-    official_career: "2000-Present",
+    role: "2000-Present",
   },
   {
     id: 42,
@@ -543,7 +543,7 @@ export const data = [
       "1.42 % Ban Rate",
     ],
 
-    official_career: "1952-1973",
+    role: "1952-1973",
   },
   {
     id: 43,
@@ -556,7 +556,7 @@ export const data = [
       "1.48 % Ban Rate",
     ],
 
-    official_career: "1981-1996",
+    role: "1981-1996",
   },
   {
     id: 44,
@@ -569,7 +569,7 @@ export const data = [
       "10.75 % Ban Rate",
     ],
 
-    official_career: "1998-2023",
+    role: "1998-2023",
   },
   {
     id: 45,
@@ -582,7 +582,7 @@ export const data = [
       "14.41 % Ban Rate",
     ],
 
-    official_career: "1991-2013",
+    role: "1991-2013",
   },
   {
     id: 46,
@@ -595,7 +595,7 @@ export const data = [
       "9.81 % Ban Rate",
     ],
 
-    official_career: "1981-1998",
+    role: "1981-1998",
   },
   {
     id: 47,
@@ -608,7 +608,7 @@ export const data = [
       "0.46 % Ban Rate",
     ],
 
-    official_career: "1973-1988",
+    role: "1973-1988",
   },
   {
     id: 48,
@@ -621,7 +621,7 @@ export const data = [
       "3.64 % Ban Rate",
     ],
 
-    official_career: "1993-2017",
+    role: "1993-2017",
   },
   {
     id: 49,
@@ -634,7 +634,7 @@ export const data = [
       "0.84 % Ban Rate",
     ],
 
-    official_career: "2009-Present",
+    role: "2009-Present",
   },
   {
     id: 50,
@@ -647,7 +647,7 @@ export const data = [
       "10.82 % Ban Rate",
     ],
 
-    official_career: "2008-Present",
+    role: "2008-Present",
   },
   {
     id: 51,
@@ -660,7 +660,7 @@ export const data = [
       "2.3 % Ban Rate",
     ],
 
-    official_career: "1985-2010",
+    role: "1985-2010",
   },
   {
     id: 52,
@@ -673,7 +673,7 @@ export const data = [
       "12.29 % Ban Rate",
     ],
 
-    official_career: "1966-1988",
+    role: "1966-1988",
   },
   {
     id: 53,
@@ -686,7 +686,7 @@ export const data = [
       "18.96 % Ban Rate",
     ],
 
-    official_career: "1956-1978",
+    role: "1956-1978",
   },
   {
     id: 54,
@@ -699,7 +699,7 @@ export const data = [
       "1.6 % Ban Rate",
     ],
 
-    official_career: "1995-2018",
+    role: "1995-2018",
   },
   {
     id: 55,
@@ -712,7 +712,7 @@ export const data = [
       "2.34 % Ban Rate",
     ],
 
-    official_career: "1991-2016",
+    role: "1991-2016",
   },
   {
     id: 56,
@@ -725,7 +725,7 @@ export const data = [
       "1.11 % Ban Rate",
     ],
 
-    official_career: "2004-2023",
+    role: "2004-2023",
   },
   {
     id: 57,
@@ -738,7 +738,7 @@ export const data = [
       "5.58% Ban Rate",
     ],
 
-    official_career: "1980-2004",
+    role: "1980-2004",
   },
   {
     id: 58,
@@ -751,7 +751,7 @@ export const data = [
       "1.89% Ban Rate",
     ],
 
-    official_career: "1990-2016",
+    role: "1990-2016",
   },
   {
     id: 59,
@@ -764,7 +764,7 @@ export const data = [
       "5.24% Ban Rate",
     ],
 
-    official_career: "1996-2020",
+    role: "1996-2020",
   },
   {
     id: 60,
@@ -777,7 +777,7 @@ export const data = [
       "7.9% Ban Rate",
     ],
 
-    official_career: "1997-2018",
+    role: "1997-2018",
   },
   {
     id: 61,
@@ -790,7 +790,7 @@ export const data = [
       "1.62% Ban Rate",
     ],
 
-    official_career: "1992-2011",
+    role: "1992-2011",
   },
   {
     id: 62,
@@ -803,7 +803,7 @@ export const data = [
       "6.79% Ban Rate",
     ],
 
-    official_career: "1980-2010",
+    role: "1980-2010",
   },
   {
     id: 63,
@@ -816,7 +816,7 @@ export const data = [
       "0.52% Ban Rate",
     ],
 
-    official_career: "1978-1999",
+    role: "1978-1999",
   },
   {
     id: 64,
@@ -829,7 +829,7 @@ export const data = [
       "3.29% Ban Rate",
     ],
 
-    official_career: "1996-2020",
+    role: "1996-2020",
   },
   {
     id: 65,
@@ -842,7 +842,7 @@ export const data = [
       "1.66% Ban Rate",
     ],
 
-    official_career: "2005-Present",
+    role: "2005-Present",
   },
   {
     id: 66,
@@ -855,7 +855,7 @@ export const data = [
       "0.82% Ban Rate",
     ],
 
-    official_career: "2002-Present",
+    role: "2002-Present",
   },
   {
     id: 67,
@@ -867,7 +867,7 @@ export const data = [
       "46.73% Lose Rate",
       "2.14% Ban Rate",
     ],
-    official_career: "1934-1966",
+    role: "1934-1966",
   },
   {
     id: 68,
@@ -880,7 +880,7 @@ export const data = [
       "7.9% Ban Rate",
     ],
 
-    official_career: "2000-Present",
+    role: "2000-Present",
   },
   {
     id: 69,
@@ -893,7 +893,7 @@ export const data = [
       "14.29% Ban Rate",
     ],
 
-    official_career: "1992-2015",
+    role: "1992-2015",
   },
   {
     id: 70,
@@ -906,7 +906,7 @@ export const data = [
       "6% Ban Rate",
     ],
 
-    official_career: "2002-Present",
+    role: "2002-Present",
   },
   {
     id: 71,
@@ -918,7 +918,7 @@ export const data = [
       "48.92% Lose Rate",
       "2.94% Ban Rate",
     ],
-    official_career: "1999-2020",
+    role: "1999-2020",
   },
   {
     id: 72,
@@ -942,7 +942,7 @@ export const data = [
       "4.49% Ban Rate",
     ],
 
-    official_career: "1995-2020",
+    role: "1995-2020",
   },
   {
     id: 74,
@@ -955,7 +955,7 @@ export const data = [
       "4.78% Ban Rate",
     ],
 
-    official_career: "1971-1995",
+    role: "1971-1995",
   },
   {
     id: 75,
@@ -967,6 +967,6 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    official_career: "1988-2007",
+    role: "1988-2007",
   },
 ];
