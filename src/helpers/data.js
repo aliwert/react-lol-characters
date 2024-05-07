@@ -6,7 +6,7 @@ export const data = [
     statistics: [
       "8.53 % Pick Rate",
       "48.86 % Win Rate",
-      "48.86 % Loss Rate",
+      "51.14 % Loss Rate",
       "12.29 % Ban Rate",
     ],
 
@@ -19,7 +19,7 @@ export const data = [
     statistics: [
       "13.19 % Pick Rate",
       "51.03 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.97 % Loss Rate",
       "14.52 % Ban Rate",
     ],
 
@@ -32,7 +32,7 @@ export const data = [
     statistics: [
       "10.5 % Pick Rate",
       "49.14 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.86 % Loss Rate",
       "17.84 % Ban Rate",
     ],
 
@@ -45,7 +45,7 @@ export const data = [
     statistics: [
       "2.65 % Pick Rate",
       "50.94 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.06 % Loss Rate",
       "3.95 % Ban Rate",
     ],
 
@@ -58,7 +58,7 @@ export const data = [
     statistics: [
       "3.48 % Pick Rate",
       "49.78 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.22 % Loss Rate",
       "1.25 % Ban Rate",
     ],
 
@@ -71,7 +71,7 @@ export const data = [
     statistics: [
       "4.51 % Pick Rate",
       "50.93 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.07 % Loss Rate",
       "1.15 % Ban Rate",
     ],
 
@@ -84,7 +84,7 @@ export const data = [
     statistics: [
       "2.38 % Pick Rate",
       "51.53 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.47 % Loss Rate",
       "1.51 % Ban Rate",
     ],
 
@@ -97,7 +97,7 @@ export const data = [
     statistics: [
       "2.62 % Pick Rate",
       "50.93 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.07 % Loss Rate",
       "0.78 % Ban Rate",
     ],
 
@@ -110,7 +110,7 @@ export const data = [
     statistics: [
       "4.34 % Pick Rate",
       "48.63 % Win Rate",
-      "48.86 % Loss Rate",
+      "51.37 % Loss Rate",
       "0.73 % Ban Rate",
     ],
 
@@ -123,7 +123,7 @@ export const data = [
     statistics: [
       "15.08 % Pick Rate",
       "50.01 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.99 % Loss Rate",
       "5.6 % Ban Rate",
     ],
 
@@ -136,7 +136,7 @@ export const data = [
     statistics: [
       "7.41 % Pick Rate",
       "51.85 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.15 % Loss Rate",
       "8.56 % Ban Rate",
     ],
 
@@ -149,7 +149,7 @@ export const data = [
     statistics: [
       "3.77 % Pick Rate",
       "46.12 % Win Rate",
-      "48.86 % Loss Rate",
+      "53.88 % Loss Rate",
       "0.9 % Ban Rate",
     ],
 
@@ -162,7 +162,7 @@ export const data = [
     statistics: [
       "1.94 % Pick Rate",
       "49.58 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.42 % Loss Rate",
       "0.38 % Ban Rate",
     ],
 
@@ -188,7 +188,7 @@ export const data = [
     statistics: [
       "7.77 % Pick Rate",
       "50.74 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.26 % Loss Rate",
       "31.35 % Ban Rate",
     ],
 
@@ -201,7 +201,7 @@ export const data = [
     statistics: [
       "11.27 % Pick Rate",
       "52.37 % Win Rate",
-      "48.86 % Loss Rate",
+      "47.63 % Loss Rate",
       "9.65 % Ban Rate",
     ],
 
@@ -214,7 +214,7 @@ export const data = [
     statistics: [
       "3.65 % Pick Rate",
       "51.71 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.29 % Loss Rate",
       "0.96 % Ban Rate",
     ],
 
@@ -227,7 +227,7 @@ export const data = [
     statistics: [
       "6.63 % Pick Rate",
       "52.5 % Win Rate",
-      "48.86 % Loss Rate",
+      "47.5 % Loss Rate",
       "18.63 % Ban Rate",
     ],
 
@@ -239,8 +239,8 @@ export const data = [
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt014f4b6fc9bacd10/61b1eb901d158d4007de9685/RiotX_ChampionList_caitlyn_v2.jpg?quality=90&width=250",
     statistics: [
       "16.19 % Pick Rate",
-      "49.24 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.52 % Win Rate",
+      "49.48 % Loss Rate",
       "11.97 % Ban Rate",
     ],
 
@@ -252,8 +252,8 @@ export const data = [
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt413fcd7681fe0773/5db05fb089fb926b491ed805/RiotX_ChampionList_camille.jpg?quality=90&width=250",
     statistics: [
       "6.05 % Pick Rate",
-      "50.28 % Win Rate",
-      "48.86 % Loss Rate",
+      "51.23 % Win Rate",
+      "48.77 % Loss Rate",
       "4.49 % Ban Rate",
     ],
 
