@@ -15,7 +15,8 @@ const LegendCard = ({legend}) => {
         ) : (
           <>
             <Card.Header>
-              <Card.Title>{legend.name}</Card.Title>
+              <Card.Title className="h4">{legend.name}</Card.Title>
+              <span className="h4" style={{color : 'red'}}>{legend.role}</span>
             </Card.Header>
             <ul className="m-auto">
               {legend.statistics.map((item) => (
@@ -26,7 +27,7 @@ const LegendCard = ({legend}) => {
                 </li>
               ))}
             </ul>
-            <span>{legend.role}</span>
+           
           </>
         )}
       </Card>
