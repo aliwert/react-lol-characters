@@ -558,10 +558,10 @@ export const data = [
     name: "Gwen",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7a3d6c549708c048/607496eb1f74bb759da6a062/RiotX_ChampionList_gwen.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "3.03 % Pick Rate",
+      "49.62 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.62 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/luka-modric/profil/spieler/27992",
@@ -572,10 +572,10 @@ export const data = [
     name: "Hecarim",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blteb9ce5304ec48e19/64e66ee369d0a3935bf5068a/RiotX_ChampionList_hecarim_v2.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "2.71 % Pick Rate",
+      "48.06 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.42 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/mane-garrincha/profil/spieler/151263",
@@ -586,10 +586,10 @@ export const data = [
     name: "Heimerdinger",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd30d85446d154070/5db05fc57d28b76cfe4397ef/RiotX_ChampionList_heimerdinger.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "2.62 % Pick Rate",
+      "49.79 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.48 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/marco-van-basten/profil/spieler/74471",
@@ -600,10 +600,10 @@ export const data = [
     name: "Hwei",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc7b700627f2bb3c0/65691deb7c56dd1bd9a61c97/RiotX_ChampionList_hwei_v2.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "8.48 % Pick Rate",
+      "48.5 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "10.75 % Ban Rate",
     ],
     profile: "https://www.transfermarkt.com.tr/mesut-ozil/profil/spieler/35664",
     official_career: "1998-2023",
@@ -613,10 +613,10 @@ export const data = [
     name: "Illaoi",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc44e90a5547120a2/5db05fc5347d1c6baa57be2b/RiotX_ChampionList_illaoi.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "4.44 % Pick Rate",
+      "50.75 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "14.41 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/michael-ballack/profil/spieler/63",
@@ -627,10 +627,10 @@ export const data = [
     name: "Irelia",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf5f2b8de93870aef/5db05fcea6470d6ab91ce59a/RiotX_ChampionList_irelia.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "6.76 % Pick Rate",
+      "49.69 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "9.81 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/michael-laudrup/profil/spieler/8023",
@@ -641,10 +641,10 @@ export const data = [
     name: "Ivern",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5fff73e1df1873de/5db05fce7d28b76cfe4397f5/RiotX_ChampionList_ivern.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "1.27 % Pick Rate",
+      "50.73 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "0.46 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/michel-platini/profil/spieler/88994",
@@ -655,10 +655,10 @@ export const data = [
     name: "Janna",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt02bf5329f8abe45d/5db05fcedf78486c826dcd06/RiotX_ChampionList_janna.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "5.58 % Pick Rate",
+      "52.02 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "3.64 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/miroslav-klose/profil/spieler/10",
@@ -669,10 +669,10 @@ export const data = [
     name: "Jarvan IV",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5898626d7016d222/5db05fcfdc674266df3d5d3c/RiotX_ChampionList_jarvaniv.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "4.21 % Pick Rate",
+      "50.38 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "0.84 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/mohamed-salah/profil/spieler/148455",
@@ -683,10 +683,10 @@ export const data = [
     name: "Jax",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6b301613598c3f17/6529efbb8adde57f76f78c90/RiotX_ChampionList_jax_v2.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "10.31 % Pick Rate",
+      "49.94 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "10.82 % Ban Rate",
     ],
     profile: "https://www.transfermarkt.com.tr/neymar/profil/spieler/68290",
     official_career: "2008-Present",
