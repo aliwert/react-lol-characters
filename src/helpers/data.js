@@ -643,7 +643,7 @@ export const data = [
     statistics: [
       "10.31 % Pick Rate",
       "49.94 % Win Rate",
-      "48.86 % Lose Rate",
+      "50.06 % Lose Rate",
       "10.82 % Ban Rate",
     ],
 
@@ -656,7 +656,7 @@ export const data = [
     statistics: [
       "5.14 % Pick Rate",
       "48.78 % Win Rate",
-      "48.86 % Lose Rate",
+      "51.22 % Lose Rate",
       "2.3 % Ban Rate",
     ],
 
@@ -669,7 +669,7 @@ export const data = [
     statistics: [
       "14.65 % Pick Rate",
       "50.99 % Win Rate",
-      "3.34 % Lose Rate",
+      "49.01 % Lose Rate",
       "12.29 % Ban Rate",
     ],
 
@@ -695,7 +695,7 @@ export const data = [
     statistics: [
       "2.93 % Pick Rate",
       "45.41 % Win Rate",
-      "48.86 % Lose Rate",
+      "54.59 % Lose Rate",
       "1.6 % Ban Rate",
     ],
 
@@ -708,7 +708,7 @@ export const data = [
     statistics: [
       "15.19 % Pick Rate",
       "47.89 % Win Rate",
-      "48.86 % Lose Rate",
+      "52.11 % Lose Rate",
       "2.34 % Ban Rate",
     ],
 
@@ -721,7 +721,7 @@ export const data = [
     statistics: [
       "2.88 % Pick Rate",
       "47.43 % Win Rate",
-      "48.86 % Lose Rate",
+      "52.57 % Lose Rate",
       "1.11 % Ban Rate",
     ],
 
@@ -732,10 +732,10 @@ export const data = [
     name: "Karma",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt39748c7b67252d6f/5db05fd70b39e86c2f83dc19/RiotX_ChampionList_karma.jpg?quality=90&width=250",
     statistics: [
-      "7.16 % Pick Rate",
-      "47.71 % Win Rate",
-      "48.86 % Lose Rate",
-      "5.58 % Ban Rate",
+      "7.16% Pick Rate",
+      "47.71% Win Rate",
+      "52.29% Lose Rate",
+      "5.58% Ban Rate",
     ],
 
     official_career: "1980-2004",
@@ -745,10 +745,10 @@ export const data = [
     name: "Karthus",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt69b8fad9d1e78514/5db05fd7df78486c826dcd0c/RiotX_ChampionList_karthus.jpg?quality=90&width=250",
     statistics: [
-      "3.07 % Pick Rate",
-      "50.24 % Win Rate",
-      "48.86 % Lose Rate",
-      "1.89 % Ban Rate",
+      "3.07% Pick Rate",
+      "50.24% Win Rate",
+      "49.76% Lose Rate",
+      "1.89% Ban Rate",
     ],
 
     official_career: "1990-2016",
@@ -758,10 +758,10 @@ export const data = [
     name: "Kassadin",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt20773f2f67e00a74/636ead3d105477785e890c1b/RiotX_ChampionList_kassadin.jpg?quality=90&width=250",
     statistics: [
-      "3.37 % Pick Rate",
-      "50.95 % Win Rate",
-      "48.86 % Lose Rate",
-      "5.24 % Ban Rate",
+      "3.37% Pick Rate",
+      "50.95% Win Rate",
+      "49.05% Lose Rate",
+      "5.24% Ban Rate",
     ],
 
     official_career: "1996-2020",
