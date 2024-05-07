@@ -6,7 +6,7 @@ export const data = [
     statistics: [
       "8.53 % Pick Rate",
       "48.86 % Win Rate",
-      "51.14 % Loss Rate",
+      "51.14 % Lose Rate",
       "12.29 % Ban Rate",
     ],
 
@@ -19,7 +19,7 @@ export const data = [
     statistics: [
       "13.19 % Pick Rate",
       "51.03 % Win Rate",
-      "48.97 % Loss Rate",
+      "48.97 % Lose Rate",
       "14.52 % Ban Rate",
     ],
 
@@ -32,7 +32,7 @@ export const data = [
     statistics: [
       "10.5 % Pick Rate",
       "49.14 % Win Rate",
-      "50.86 % Loss Rate",
+      "50.86 % Lose Rate",
       "17.84 % Ban Rate",
     ],
 
@@ -45,7 +45,7 @@ export const data = [
     statistics: [
       "2.65 % Pick Rate",
       "50.94 % Win Rate",
-      "49.06 % Loss Rate",
+      "49.06 % Lose Rate",
       "3.95 % Ban Rate",
     ],
 
@@ -58,7 +58,7 @@ export const data = [
     statistics: [
       "3.48 % Pick Rate",
       "49.78 % Win Rate",
-      "50.22 % Loss Rate",
+      "50.22 % Lose Rate",
       "1.25 % Ban Rate",
     ],
 
@@ -71,7 +71,7 @@ export const data = [
     statistics: [
       "4.51 % Pick Rate",
       "50.93 % Win Rate",
-      "49.07 % Loss Rate",
+      "49.07 % Lose Rate",
       "1.15 % Ban Rate",
     ],
 
@@ -84,7 +84,7 @@ export const data = [
     statistics: [
       "2.38 % Pick Rate",
       "51.53 % Win Rate",
-      "48.47 % Loss Rate",
+      "48.47 % Lose Rate",
       "1.51 % Ban Rate",
     ],
 
@@ -97,7 +97,7 @@ export const data = [
     statistics: [
       "2.62 % Pick Rate",
       "50.93 % Win Rate",
-      "49.07 % Loss Rate",
+      "49.07 % Lose Rate",
       "0.78 % Ban Rate",
     ],
 
@@ -110,7 +110,7 @@ export const data = [
     statistics: [
       "4.34 % Pick Rate",
       "48.63 % Win Rate",
-      "51.37 % Loss Rate",
+      "51.37 % Lose Rate",
       "0.73 % Ban Rate",
     ],
 
@@ -123,7 +123,7 @@ export const data = [
     statistics: [
       "15.08 % Pick Rate",
       "50.01 % Win Rate",
-      "49.99 % Loss Rate",
+      "49.99 % Lose Rate",
       "5.6 % Ban Rate",
     ],
 
@@ -136,7 +136,7 @@ export const data = [
     statistics: [
       "7.41 % Pick Rate",
       "51.85 % Win Rate",
-      "48.15 % Loss Rate",
+      "48.15 % Lose Rate",
       "8.56 % Ban Rate",
     ],
 
@@ -149,7 +149,7 @@ export const data = [
     statistics: [
       "3.77 % Pick Rate",
       "46.12 % Win Rate",
-      "53.88 % Loss Rate",
+      "53.88 % Lose Rate",
       "0.9 % Ban Rate",
     ],
 
@@ -162,7 +162,7 @@ export const data = [
     statistics: [
       "1.94 % Pick Rate",
       "49.58 % Win Rate",
-      "50.42 % Loss Rate",
+      "50.42 % Lose Rate",
       "0.38 % Ban Rate",
     ],
 
@@ -175,7 +175,7 @@ export const data = [
     statistics: [
       "3.58 % Pick Rate",
       "50.93 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "6.17 % Ban Rate",
     ],
 
@@ -188,7 +188,7 @@ export const data = [
     statistics: [
       "7.77 % Pick Rate",
       "50.74 % Win Rate",
-      "49.26 % Loss Rate",
+      "49.26 % Lose Rate",
       "31.35 % Ban Rate",
     ],
 
@@ -201,7 +201,7 @@ export const data = [
     statistics: [
       "11.27 % Pick Rate",
       "52.37 % Win Rate",
-      "47.63 % Loss Rate",
+      "47.63 % Lose Rate",
       "9.65 % Ban Rate",
     ],
 
@@ -214,7 +214,7 @@ export const data = [
     statistics: [
       "3.65 % Pick Rate",
       "51.71 % Win Rate",
-      "48.29 % Loss Rate",
+      "48.29 % Lose Rate",
       "0.96 % Ban Rate",
     ],
 
@@ -227,7 +227,7 @@ export const data = [
     statistics: [
       "6.63 % Pick Rate",
       "52.5 % Win Rate",
-      "47.5 % Loss Rate",
+      "47.5 % Lose Rate",
       "18.63 % Ban Rate",
     ],
 
@@ -240,7 +240,7 @@ export const data = [
     statistics: [
       "16.19 % Pick Rate",
       "50.52 % Win Rate",
-      "49.48 % Loss Rate",
+      "49.48 % Lose Rate",
       "11.97 % Ban Rate",
     ],
 
@@ -253,7 +253,7 @@ export const data = [
     statistics: [
       "6.05 % Pick Rate",
       "51.23 % Win Rate",
-      "48.77 % Loss Rate",
+      "48.77 % Lose Rate",
       "4.49 % Ban Rate",
     ],
 
@@ -266,7 +266,7 @@ export const data = [
     statistics: [
       "2.31 % Pick Rate",
       "51.18 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.82 % Lose Rate",
       "1.65 % Ban Rate",
     ],
 
@@ -279,7 +279,7 @@ export const data = [
     statistics: [
       "3.09 % Pick Rate",
       "49.07 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.93 % Lose Rate",
       "0.67 % Ban Rate",
     ],
 
@@ -292,7 +292,7 @@ export const data = [
     statistics: [
       "1.58 % Pick Rate",
       "46.03 % Win Rate",
-      "48.86 % Loss Rate",
+      "53.97 % Lose Rate",
       "0.17 % Ban Rate",
     ],
 
@@ -305,7 +305,7 @@ export const data = [
     statistics: [
       "9.89 % Pick Rate",
       "49.93 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.07 % Lose Rate",
       "22.45 % Ban Rate",
     ],
 
@@ -318,7 +318,7 @@ export const data = [
     statistics: [
       "12.77 % Pick Rate",
       "51.24 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.76 % Lose Rate",
       "5.51 % Ban Rate",
     ],
 
@@ -331,7 +331,7 @@ export const data = [
     statistics: [
       "4.52 % Pick Rate",
       "52.17 % Win Rate",
-      "48.86 % Loss Rate",
+      "47.83 % Lose Rate",
       "3.22 % Ban Rate",
     ],
 
@@ -344,7 +344,7 @@ export const data = [
     statistics: [
       "5.43 % Pick Rate",
       "49.04 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.96 % Lose Rate",
       "15.38 % Ban Rate",
     ],
 
@@ -357,7 +357,7 @@ export const data = [
     statistics: [
       "6.51 % Pick Rate",
       "50.03 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.97 % Lose Rate",
       "1.92 % Ban Rate",
     ],
 
@@ -370,7 +370,7 @@ export const data = [
     statistics: [
       "1.63 % Pick Rate",
       "50.12 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.88 % Lose Rate",
       "0.75 % Ban Rate",
     ],
 
@@ -383,7 +383,7 @@ export const data = [
     statistics: [
       "3.85 % Pick Rate",
       "49.7 % Win Rate",
-      "48.86 % Loss Rate",
+      "51.3 % Lose Rate",
       "7.23 % Ban Rate",
     ],
 
@@ -396,7 +396,7 @@ export const data = [
     statistics: [
       "14.12 % Pick Rate",
       "47.49 % Win Rate",
-      "48.86 % Loss Rate",
+      "52.51 % Lose Rate",
       "5.02 % Ban Rate",
     ],
 
@@ -409,7 +409,7 @@ export const data = [
     statistics: [
       "3.24 % Pick Rate",
       "50.5 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.5 % Lose Rate",
       "1.11 % Ban Rate",
     ],
 
@@ -422,7 +422,7 @@ export const data = [
     statistics: [
       "3.38 % Pick Rate",
       "49.6 % Win Rate",
-      "48.86 % Loss Rate",
+      "50.4 % Lose Rate",
       "5.84 % Ban Rate",
     ],
 
@@ -435,7 +435,7 @@ export const data = [
     statistics: [
       "4.78 % Pick Rate",
       "50.18 % Win Rate",
-      "48.86 % Loss Rate",
+      "49.82 % Lose Rate",
       "10.81 % Ban Rate",
     ],
 
@@ -448,7 +448,7 @@ export const data = [
     statistics: [
       "3.39 % Pick Rate",
       "50.96 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.79 % Ban Rate",
     ],
 
@@ -461,7 +461,7 @@ export const data = [
     statistics: [
       "3.34 % Pick Rate",
       "48.57 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.55 % Ban Rate",
     ],
 
@@ -474,7 +474,7 @@ export const data = [
     statistics: [
       "9.21 % Pick Rate",
       "51.51 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "5.15 % Ban Rate",
     ],
 
@@ -487,7 +487,7 @@ export const data = [
     statistics: [
       "2.33 % Pick Rate",
       "48.58 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.5 % Ban Rate",
     ],
 
@@ -500,7 +500,7 @@ export const data = [
     statistics: [
       "6.01 % Pick Rate",
       "49.57 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2 % Ban Rate",
     ],
 
@@ -513,7 +513,7 @@ export const data = [
     statistics: [
       "5.24 % Pick Rate",
       "48.19 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2.58 % Ban Rate",
     ],
 
@@ -526,7 +526,7 @@ export const data = [
     statistics: [
       "3.03 % Pick Rate",
       "49.62 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.62 % Ban Rate",
     ],
 
@@ -539,7 +539,7 @@ export const data = [
     statistics: [
       "2.71 % Pick Rate",
       "48.06 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.42 % Ban Rate",
     ],
 
@@ -552,7 +552,7 @@ export const data = [
     statistics: [
       "2.62 % Pick Rate",
       "49.79 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.48 % Ban Rate",
     ],
 
@@ -565,7 +565,7 @@ export const data = [
     statistics: [
       "8.48 % Pick Rate",
       "48.5 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "10.75 % Ban Rate",
     ],
 
@@ -578,7 +578,7 @@ export const data = [
     statistics: [
       "4.44 % Pick Rate",
       "50.75 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "14.41 % Ban Rate",
     ],
 
@@ -591,7 +591,7 @@ export const data = [
     statistics: [
       "6.76 % Pick Rate",
       "49.69 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "9.81 % Ban Rate",
     ],
 
@@ -604,7 +604,7 @@ export const data = [
     statistics: [
       "1.27 % Pick Rate",
       "50.73 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.46 % Ban Rate",
     ],
 
@@ -617,7 +617,7 @@ export const data = [
     statistics: [
       "5.58 % Pick Rate",
       "52.02 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "3.64 % Ban Rate",
     ],
 
@@ -630,7 +630,7 @@ export const data = [
     statistics: [
       "4.21 % Pick Rate",
       "50.38 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.84 % Ban Rate",
     ],
 
@@ -643,7 +643,7 @@ export const data = [
     statistics: [
       "10.31 % Pick Rate",
       "49.94 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "10.82 % Ban Rate",
     ],
 
@@ -656,7 +656,7 @@ export const data = [
     statistics: [
       "5.14 % Pick Rate",
       "48.78 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2.3 % Ban Rate",
     ],
 
@@ -669,7 +669,7 @@ export const data = [
     statistics: [
       "14.65 % Pick Rate",
       "50.99 % Win Rate",
-      "3.34 % Loss Rate",
+      "3.34 % Lose Rate",
       "12.29 % Ban Rate",
     ],
 
@@ -682,7 +682,7 @@ export const data = [
     statistics: [
       "25.13 % Pick Rate",
       "51.14 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "18.96 % Ban Rate",
     ],
 
@@ -695,7 +695,7 @@ export const data = [
     statistics: [
       "2.93 % Pick Rate",
       "45.41 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.6 % Ban Rate",
     ],
 
@@ -708,7 +708,7 @@ export const data = [
     statistics: [
       "15.19 % Pick Rate",
       "47.89 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2.34 % Ban Rate",
     ],
 
@@ -721,7 +721,7 @@ export const data = [
     statistics: [
       "2.88 % Pick Rate",
       "47.43 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.11 % Ban Rate",
     ],
 
@@ -734,7 +734,7 @@ export const data = [
     statistics: [
       "7.16 % Pick Rate",
       "47.71 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "5.58 % Ban Rate",
     ],
 
@@ -747,7 +747,7 @@ export const data = [
     statistics: [
       "3.07 % Pick Rate",
       "50.24 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.89 % Ban Rate",
     ],
 
@@ -760,7 +760,7 @@ export const data = [
     statistics: [
       "3.37 % Pick Rate",
       "50.95 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "5.24 % Ban Rate",
     ],
 
@@ -773,7 +773,7 @@ export const data = [
     statistics: [
       "6.27 % Pick Rate",
       "49.38 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "7.9 % Ban Rate",
     ],
 
@@ -786,7 +786,7 @@ export const data = [
     statistics: [
       "4.69 % Pick Rate",
       "51.86 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.62 % Ban Rate",
     ],
 
@@ -799,7 +799,7 @@ export const data = [
     statistics: [
       "7.68 % Pick Rate",
       "49.13 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "6.79 % Ban Rate",
     ],
 
@@ -812,7 +812,7 @@ export const data = [
     statistics: [
       "1.71 % Pick Rate",
       "49.27 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.52 % Ban Rate",
     ],
 
@@ -825,7 +825,7 @@ export const data = [
     statistics: [
       "6.47 % Pick Rate",
       "49.4 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "3.29 % Ban Rate",
     ],
 
@@ -838,7 +838,7 @@ export const data = [
     statistics: [
       "3.62 % Pick Rate",
       "49.12 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.66 % Ban Rate",
     ],
 
@@ -851,7 +851,7 @@ export const data = [
     statistics: [
       "1.61 % Pick Rate",
       "51.36 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "0.82 % Ban Rate",
     ],
 
@@ -864,7 +864,7 @@ export const data = [
     statistics: [
       "4.09 % Pick Rate",
       "53.27 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2.14 % Ban Rate",
     ],
     official_career: "1934-1966",
@@ -876,7 +876,7 @@ export const data = [
     statistics: [
       "4.4 % Pick Rate",
       "48.06 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "7.9 % Ban Rate",
     ],
 
@@ -889,7 +889,7 @@ export const data = [
     statistics: [
       "16.59 % Pick Rate",
       "48.29 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "14.29 % Ban Rate",
     ],
 
@@ -902,7 +902,7 @@ export const data = [
     statistics: [
       "7.37 % Pick Rate",
       "51.37 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "6 % Ban Rate",
     ],
 
@@ -915,7 +915,7 @@ export const data = [
     statistics: [
       "3.26 % Pick Rate",
       "51.08 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "2.94 % Ban Rate",
     ],
     official_career: "1999-2020",
@@ -927,10 +927,9 @@ export const data = [
     statistics: [
       "2.61 % Pick Rate",
       "49 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "1.17 % Ban Rate",
     ],
-   
   },
   {
     id: 73,
@@ -939,10 +938,10 @@ export const data = [
     statistics: [
       "12.33 % Pick Rate",
       "49.6 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "4.49 % Ban Rate",
     ],
-    
+
     official_career: "1995-2020",
   },
   {
@@ -952,10 +951,10 @@ export const data = [
     statistics: [
       "8.87 % Pick Rate",
       "50.12 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "4.78 % Ban Rate",
     ],
-   
+
     official_career: "1971-1995",
   },
   {
@@ -965,7 +964,7 @@ export const data = [
     statistics: [
       "18.76 % Pick Rate",
       "50.28 % Win Rate",
-      "48.86 % Loss Rate",
+      "48.86 % Lose Rate",
       "13.69 % Ban Rate",
     ],
     official_career: "1988-2007",
