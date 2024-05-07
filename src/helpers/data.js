@@ -9,7 +9,7 @@ export const data = [
       "48.86 % Loss Rate",
       "12.29 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/alex/profil/spieler/18537",
+
     official_career: "1994-2015",
   },
   {
@@ -22,8 +22,7 @@ export const data = [
       "48.86 % Loss Rate",
       "14.52 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/alfredo-di-stefano/profil/spieler/135778",
+
     official_career: "1944-1967",
   },
   {
@@ -36,8 +35,7 @@ export const data = [
       "48.86 % Loss Rate",
       "17.84 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/allan-simonsen/profil/spieler/8026",
+
     official_career: "1971-1990",
   },
   {
@@ -50,8 +48,7 @@ export const data = [
       "48.86 % Loss Rate",
       "3.95 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/andres-iniesta/profil/spieler/7600",
+
     official_career: "1996-Present",
   },
   {
@@ -64,8 +61,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.25 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/angel-di-maria/profil/spieler/45320",
+
     official_career: "2006-Present",
   },
   {
@@ -78,8 +74,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.15 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/arjen-robben/profil/spieler/4360",
+
     official_career: "1999-2022",
   },
   {
@@ -92,8 +87,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.51 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/bastian-schweinsteiger/profil/spieler/2514",
+
     official_career: "1992-2020",
   },
   {
@@ -106,8 +100,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.78 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/sir-bobby-charlton/profil/spieler/174874",
+
     official_career: "1956-1980",
   },
   {
@@ -120,8 +113,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.73 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/bobby-moore/profil/spieler/196086",
+
     official_career: "1958-1979",
   },
   {
@@ -134,8 +126,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.6 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/carlos-alberto/profil/spieler/15783",
+
     official_career: "2001-2019",
   },
   {
@@ -148,8 +139,7 @@ export const data = [
       "48.86 % Loss Rate",
       "8.56 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/cristiano-ronaldo/profil/spieler/8198",
+
     official_career: "1995-Present",
   },
   {
@@ -162,7 +152,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.9 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/dani-alves/profil/spieler/15951",
+
     official_career: "2000-2023",
   },
   {
@@ -175,8 +165,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.38 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/diego-maradona/profil/spieler/8024",
+
     official_career: "1976-1998",
   },
   {
@@ -189,8 +178,7 @@ export const data = [
       "48.86 % Loss Rate",
       "6.17 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/didier-drogba/profil/spieler/3924",
+
     official_career: "1991-2019",
   },
   {
@@ -203,8 +191,7 @@ export const data = [
       "48.86 % Loss Rate",
       "31.35 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/djalma-santos/profil/spieler/137269",
+
     official_career: "1947-1973",
   },
   {
@@ -217,7 +204,7 @@ export const data = [
       "48.86 % Loss Rate",
       "9.65 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/eusebio/profil/spieler/89230",
+
     official_career: "1960-1979",
   },
   {
@@ -230,8 +217,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.96 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/ferenc-puskas/profil/spieler/103092",
+
     official_career: "1942-1967",
   },
   {
@@ -244,8 +230,7 @@ export const data = [
       "48.86 % Loss Rate",
       "18.63 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/paco-gento/profil/spieler/170723",
+
     official_career: "1953-1972",
   },
   {
@@ -258,8 +243,7 @@ export const data = [
       "48.86 % Loss Rate",
       "11.97 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/franco-baresi/profil/spieler/42049",
+
     official_career: "1977-1998",
   },
   {
@@ -272,8 +256,7 @@ export const data = [
       "48.86 % Loss Rate",
       "4.49 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/franz-beckenbauer/profil/spieler/72347",
+
     official_career: "1964-1984",
   },
   {
@@ -286,8 +269,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.65 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/fritz-walter/profil/spieler/89549",
+
     official_career: "1937-1960",
   },
   {
@@ -300,8 +282,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.67 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/gerd-muller/profil/spieler/35604",
+
     official_career: "1963-1983",
   },
   {
@@ -314,8 +295,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.17 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/george-best/profil/spieler/174986",
+
     official_career: "1961-1985",
   },
   {
@@ -328,8 +308,7 @@ export const data = [
       "48.86 % Loss Rate",
       "22.45 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/gheorghe-hagi/profil/spieler/7939",
+
     official_career: "1982-2002",
   },
   {
@@ -342,8 +321,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.51 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/giacinto-facchetti/profil/spieler/145193",
+
     official_career: "1960-1979",
   },
   {
@@ -356,8 +334,7 @@ export const data = [
       "48.86 % Loss Rate",
       "3.22 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/gianni-rivera/profil/spieler/145347",
+
     official_career: "1958-1979",
   },
   {
@@ -370,8 +347,7 @@ export const data = [
       "48.86 % Loss Rate",
       "15.38 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/giorgio-chiellini/profil/spieler/29260",
+
     official_career: "2000-2024",
   },
   {
@@ -384,8 +360,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.92 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/giuseppe-meazza/profil/spieler/183779",
+
     official_career: "1927-1948",
   },
   {
@@ -398,8 +373,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.75 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/gunter-netzer/profil/spieler/24690",
+
     official_career: "1963-1977",
   },
   {
@@ -412,8 +386,7 @@ export const data = [
       "48.86 % Loss Rate",
       "7.23 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/hugo-sanchez/profil/spieler/84528",
+
     official_career: "1979-1998",
   },
   {
@@ -426,8 +399,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.02 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/javier-zanetti/profil/spieler/1161",
+
     official_career: "1992-2014",
   },
   {
@@ -440,7 +412,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.11 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/jairzinho/profil/spieler/145510",
+
     official_career: "1959-1984",
   },
   {
@@ -453,8 +425,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.84 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/johan-cruyff/profil/spieler/8021",
+
     official_career: "1964-1985",
   },
   {
@@ -467,7 +438,7 @@ export const data = [
       "48.86 % Loss Rate",
       "10.81 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/kaka/profil/spieler/3366",
+
     official_career: "2000-2017",
   },
   {
@@ -480,8 +451,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.79 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/sir-kenny-dalglish/profil/spieler/135269",
+
     official_career: "1968-1991",
   },
   {
@@ -494,8 +464,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.55 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/kylian-mbappe/profil/spieler/342229",
+
     official_career: "2011-Present",
   },
   {
@@ -508,8 +477,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.15 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/leonardo-bonucci/profil/spieler/39983",
+
     official_career: "2005-Present",
   },
   {
@@ -522,8 +490,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.5 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/lionel-messi/profil/spieler/28003",
+
     official_career: "2000-Present",
   },
   {
@@ -536,8 +503,7 @@ export const data = [
       "48.86 % Loss Rate",
       "2 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/lothar-matthaus/profil/spieler/1527",
+
     official_career: "1975-2001",
   },
   {
@@ -550,7 +516,7 @@ export const data = [
       "48.86 % Loss Rate",
       "2.58 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/luis-figo/profil/spieler/3446",
+
     official_career: "1987-2010",
   },
   {
@@ -563,8 +529,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.62 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/luka-modric/profil/spieler/27992",
+
     official_career: "2000-Present",
   },
   {
@@ -577,8 +542,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.42 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/mane-garrincha/profil/spieler/151263",
+
     official_career: "1952-1973",
   },
   {
@@ -591,8 +555,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.48 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/marco-van-basten/profil/spieler/74471",
+
     official_career: "1981-1996",
   },
   {
@@ -605,7 +568,7 @@ export const data = [
       "48.86 % Loss Rate",
       "10.75 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/mesut-ozil/profil/spieler/35664",
+
     official_career: "1998-2023",
   },
   {
@@ -618,8 +581,7 @@ export const data = [
       "48.86 % Loss Rate",
       "14.41 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/michael-ballack/profil/spieler/63",
+
     official_career: "1991-2013",
   },
   {
@@ -632,8 +594,7 @@ export const data = [
       "48.86 % Loss Rate",
       "9.81 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/michael-laudrup/profil/spieler/8023",
+
     official_career: "1981-1998",
   },
   {
@@ -646,8 +607,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.46 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/michel-platini/profil/spieler/88994",
+
     official_career: "1973-1988",
   },
   {
@@ -660,8 +620,7 @@ export const data = [
       "48.86 % Loss Rate",
       "3.64 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/miroslav-klose/profil/spieler/10",
+
     official_career: "1993-2017",
   },
   {
@@ -674,8 +633,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.84 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/mohamed-salah/profil/spieler/148455",
+
     official_career: "2009-Present",
   },
   {
@@ -688,7 +646,7 @@ export const data = [
       "48.86 % Loss Rate",
       "10.82 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/neymar/profil/spieler/68290",
+
     official_career: "2008-Present",
   },
   {
@@ -701,8 +659,7 @@ export const data = [
       "48.86 % Loss Rate",
       "2.3 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/paolo-maldini/profil/spieler/5803",
+
     official_career: "1985-2010",
   },
   {
@@ -715,8 +672,7 @@ export const data = [
       "3.34 % Loss Rate",
       "12.29 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/paolo-rossi/profil/spieler/116757",
+
     official_career: "1966-1988",
   },
   {
@@ -729,7 +685,7 @@ export const data = [
       "48.86 % Loss Rate",
       "18.96 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/pele/profil/spieler/17121",
+
     official_career: "1956-1978",
   },
   {
@@ -742,8 +698,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.6 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/philipp-lahm/profil/spieler/2219",
+
     official_career: "1995-2018",
   },
   {
@@ -756,7 +711,7 @@ export const data = [
       "48.86 % Loss Rate",
       "2.34 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/rivaldo/profil/spieler/3372",
+
     official_career: "1991-2016",
   },
   {
@@ -769,8 +724,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.11 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/robert-lewandowski/profil/spieler/38253",
+
     official_career: "2004-2023",
   },
   {
@@ -783,8 +737,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.58 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/roberto-baggio/profil/spieler/4153",
+
     official_career: "1980-2004",
   },
   {
@@ -797,8 +750,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.89 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/roberto-carlos/profil/spieler/7518",
+
     official_career: "1990-2016",
   },
   {
@@ -811,8 +763,7 @@ export const data = [
       "48.86 % Loss Rate",
       "5.24 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/robin-van-persie/profil/spieler/4380",
+
     official_career: "1996-2020",
   },
   {
@@ -825,7 +776,7 @@ export const data = [
       "48.86 % Loss Rate",
       "7.9 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/ronaldinho/profil/spieler/3373",
+
     official_career: "1997-2018",
   },
   {
@@ -838,7 +789,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.62 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/ronaldo/profil/spieler/3140",
+
     official_career: "1992-2011",
   },
   {
@@ -851,7 +802,7 @@ export const data = [
       "48.86 % Loss Rate",
       "6.79 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/romario/profil/spieler/7942",
+
     official_career: "1980-2010",
   },
   {
@@ -864,8 +815,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.52 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/ruud-gullit/profil/spieler/101045",
+
     official_career: "1978-1999",
   },
   {
@@ -878,7 +828,7 @@ export const data = [
       "48.86 % Loss Rate",
       "3.29 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/samuel-etoo/profil/spieler/4257",
+
     official_career: "1996-2020",
   },
   {
@@ -891,8 +841,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.66 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/sergio-busquets/profil/spieler/65230",
+
     official_career: "2005-Present",
   },
   {
@@ -905,8 +854,7 @@ export const data = [
       "48.86 % Loss Rate",
       "0.82 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/sergio-ramos/profil/spieler/25557",
+
     official_career: "2002-Present",
   },
   {
@@ -919,8 +867,6 @@ export const data = [
       "48.86 % Loss Rate",
       "2.14 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/sir-stanley-matthews/profil/spieler/212779",
     official_career: "1934-1966",
   },
   {
@@ -933,8 +879,7 @@ export const data = [
       "48.86 % Loss Rate",
       "7.9 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/thomas-muller/profil/spieler/58358",
+
     official_career: "2000-Present",
   },
   {
@@ -947,8 +892,7 @@ export const data = [
       "48.86 % Loss Rate",
       "14.29 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/thierry-henry/profil/spieler/3207",
+
     official_career: "1992-2015",
   },
   {
@@ -961,7 +905,7 @@ export const data = [
       "48.86 % Loss Rate",
       "6 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/toni-kroos/profil/spieler/31909",
+
     official_career: "2002-Present",
   },
   {
@@ -974,8 +918,7 @@ export const data = [
       "48.86 % Loss Rate",
       "2.94 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/wesley-sneijder/profil/spieler/4673",
+
     official_career: "1999-2020",
   },
   {
@@ -988,8 +931,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.17 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/wayne-rooney/profil/spieler/3332",
+
     official_career: "2001-2021",
   },
   {
@@ -1002,7 +944,7 @@ export const data = [
       "48.86 % Loss Rate",
       "4.49 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/xavi/profil/spieler/7607",
+
     official_career: "1995-2020",
   },
   {
@@ -1015,7 +957,7 @@ export const data = [
       "48.86 % Loss Rate",
       "4.78 % Ban Rate",
     ],
-    profile: "https://www.transfermarkt.com.tr/zico/profil/spieler/117619",
+
     official_career: "1971-1995",
   },
   {
@@ -1028,8 +970,7 @@ export const data = [
       "48.86 % Loss Rate",
       "13.69 % Ban Rate",
     ],
-    profile:
-      "https://www.transfermarkt.com.tr/zinedine-zidane/profil/spieler/3111",
+
     official_career: "1988-2007",
   },
 ];

@@ -21,7 +21,8 @@ const LegendCard = ({legend}) => {
               {legend.statistics.map((item) => (
                 <li className="list-unstyled h5 text-start">
                   {" "}
-                  🎮 {item}
+                  🎮 {item}<br></br>
+                  
                 </li>
               ))}
             </ul>
