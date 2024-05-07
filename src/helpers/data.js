@@ -792,10 +792,10 @@ export const data = [
     name: "Karthus",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt69b8fad9d1e78514/5db05fd7df78486c826dcd0c/RiotX_ChampionList_karthus.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "3.07 % Pick Rate",
+      "50.24 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "1.89 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/roberto-carlos/profil/spieler/7518",
@@ -806,10 +806,10 @@ export const data = [
     name: "Kassadin",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt20773f2f67e00a74/636ead3d105477785e890c1b/RiotX_ChampionList_kassadin.jpg?quality=90&width=250",
     statistics: [
-      "8.53 % Pick Rate",
-      "48.86 % Win Rate",
+      "3.37 % Pick Rate",
+      "50.95 % Win Rate",
       "48.86 % Loss Rate",
-      "12.29 % Ban Rate",
+      "5.24 % Ban Rate",
     ],
     profile:
       "https://www.transfermarkt.com.tr/robin-van-persie/profil/spieler/4380",
