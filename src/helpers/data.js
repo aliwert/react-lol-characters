@@ -231,7 +231,7 @@ export const data = [
       "18.63 % Ban Rate",
     ],
 
-    role: "1953-1972",
+    role: "Jungle - Solo",
   },
   {
     id: 19,
@@ -244,7 +244,7 @@ export const data = [
       "11.97 % Ban Rate",
     ],
 
-    role: "1977-1998",
+    role: "ADC",
   },
   {
     id: 20,
@@ -257,7 +257,7 @@ export const data = [
       "4.49 % Ban Rate",
     ],
 
-    role: "1964-1984",
+    role: "Solo - Jungle",
   },
   {
     id: 21,
@@ -270,7 +270,7 @@ export const data = [
       "1.65 % Ban Rate",
     ],
 
-    role: "1937-1960",
+    role: "Mid",
   },
   {
     id: 22,
@@ -283,7 +283,7 @@ export const data = [
       "0.67 % Ban Rate",
     ],
 
-    role: "1963-1983",
+    role: "Solo",
   },
   {
     id: 23,
@@ -296,7 +296,7 @@ export const data = [
       "0.17 % Ban Rate",
     ],
 
-    role: "1961-1985",
+    role: "Mid",
   },
   {
     id: 24,
@@ -309,7 +309,7 @@ export const data = [
       "22.45 % Ban Rate",
     ],
 
-    role: "1982-2002",
+    role: "Solo",
   },
   {
     id: 25,
@@ -322,7 +322,7 @@ export const data = [
       "5.51 % Ban Rate",
     ],
 
-    role: "1960-1979",
+    role: "Mid - Jungle",
   },
   {
     id: 26,
@@ -335,7 +335,7 @@ export const data = [
       "3.22 % Ban Rate",
     ],
 
-    role: "1958-1979",
+    role: "Solo",
   },
   {
     id: 27,
