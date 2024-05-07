@@ -11,7 +11,7 @@ export const data = [
     id: 2,
     name: "Ahri",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1259276b6d1efa78/5db05fa86e8b0c6d038c5ca2/RiotX_ChampionList_ahri.jpg?quality=90&width=250",
-    statistics: ["8.53 % Pick Rate", "48.86 % Win Rate", "48.86 % Loss Rate", "12.29 % Ban Rate"],
+    statistics: ["13.19 % Pick Rate", "51.03 % Win Rate", "48.86 % Loss Rate", "14.52 % Ban Rate"],
     profile:
       "https://www.transfermarkt.com.tr/alfredo-di-stefano/profil/spieler/135778",
     official_career: "1944-1967",
@@ -20,7 +20,7 @@ export const data = [
     id: 3,
     name: "Akali",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt80ff58fe809777ff/5db05fa8adc8656c7d24e7d6/RiotX_ChampionList_akali.jpg?quality=90&width=250",
-    statistics: ["8.53 % Pick Rate", "48.86 % Win Rate", "48.86 % Loss Rate", "12.29 % Ban Rate"],
+    statistics: ["10.5 % Pick Rate", "49.14 % Win Rate", "48.86 % Loss Rate", "17.84 % Ban Rate"],
     profile:
       "https://www.transfermarkt.com.tr/allan-simonsen/profil/spieler/8026",
     official_career: "1971-1990",
@@ -29,7 +29,7 @@ export const data = [
     id: 4,
     name: "Akshan",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltdd84b33ec501c137/60f9ede33f40e5481e85c0c6/RiotX_ChampionList_akshan_v2.jpg?quality=90&width=250",
-    statistics: ["8.53 % Pick Rate", "48.86 % Win Rate", "48.86 % Loss Rate", "12.29 % Ban Rate"],
+    statistics: ["2.65 % Pick Rate", "50.94 % Win Rate", "48.86 % Loss Rate", "3.95 % Ban Rate"],
     profile:
       "https://www.transfermarkt.com.tr/andres-iniesta/profil/spieler/7600",
     official_career: "1996-Present",
