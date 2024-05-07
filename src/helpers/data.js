@@ -918,7 +918,6 @@ export const data = [
       "48.86 % Loss Rate",
       "2.94 % Ban Rate",
     ],
-
     official_career: "1999-2020",
   },
   {
@@ -931,8 +930,7 @@ export const data = [
       "48.86 % Loss Rate",
       "1.17 % Ban Rate",
     ],
-
-    official_career: "2001-2021",
+   
   },
   {
     id: 73,
@@ -944,7 +942,7 @@ export const data = [
       "48.86 % Loss Rate",
       "4.49 % Ban Rate",
     ],
-
+    
     official_career: "1995-2020",
   },
   {
@@ -957,7 +955,7 @@ export const data = [
       "48.86 % Loss Rate",
       "4.78 % Ban Rate",
     ],
-
+   
     official_career: "1971-1995",
   },
   {
@@ -970,7 +968,6 @@ export const data = [
       "48.86 % Loss Rate",
       "13.69 % Ban Rate",
     ],
-
     official_career: "1988-2007",
   },
 ];
