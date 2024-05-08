@@ -14,8 +14,8 @@ body {
 }
 
 .title {
-  color:#101415;
-  background-color: rgba(250,251,251,0.5);
+  color: #101415;
+  background-color: rgba(250, 251, 251, 0.5);
   padding: 5px;
   border-radius: 1rem;
   display: inline-block;
@@ -30,17 +30,19 @@ body {
   height: 350px;
   overflow: hidden;
   & img {
-    
     transition: transform 0.5s ease-in-out;
     height: 100%;
     width: 100%;
-    
+    filter: drop-shadow(20px 20px 20px black);
   }
   &:hover {
-    box-shadow: 3px 3px 20px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 3px 3px 20px 5px rgba(187, 17, 17, 0.5);
     & img {
       transform: scale(1.2);
       filter: none;
     }
   }
+}
+.h1 {
+  color: aliceblue;
 }
