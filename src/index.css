@@ -1,52 +1,39 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-body {
-  background-image: url("./assets/bg-image.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+@layer base {
+  * {
+    @apply box-border m-0 p-0;
+  }
+  body {
+    @apply bg-[url("./assets/bg-image.jpg")] bg-center bg-no-repeat bg-cover bg-fixed;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
 }
-
-.title {
-  color: #101415;
-  background-color: rgba(33, 139, 139, 0.5);
-  padding: 5px;
-  border-radius: 1rem;
-  display: inline-block;
-}
-.card {
-  /* border: 2px solid red; */
-  background-color: #fff;
-}
-
-.card-container {
-  background-color: rgba(83, 34, 37, 0.6);
-  min-height: 350px;
-}
-
-.player-card {
-  height: 350px;
-  overflow: hidden;
-  & img {
-    transition: transform 0.5s ease-in-out;
-    height: 100%;
-    width: 100%;
+@layer components {
+  .title {
+    @apply text-[#101415] bg-[rgba(33,139,139,0.5)] inline-block p-[5px] rounded-2xl;
+  }
+  .card {
+    @apply bg-white;
+    /* border: 2px solid red; */
+  }
+  .card-container {
+    @apply bg-[rgba(83,34,37,0.6)] min-h-[350px];
+  }
+  .player-card {
+    @apply h-[350px] overflow-hidden hover:shadow-[3px_3px_20px_5px_#bb111180];
+  }
+  .player-card img {
+    @apply transition-transform duration-[0.5s] ease-[ease-in-out] h-full w-full;
     filter: drop-shadow(20px 20px 20px black);
   }
-  &:hover {
-    box-shadow: 3px 3px 20px 5px #bb111180;
-    & img {
-      transform: scale(1.2);
-      filter: none;
-    }
+  .player-card:hover img {
+    @apply scale-[1.2];
+    filter: none;
   }
-}
-.h1 {
-  color: aliceblue;
+  .h1 {
+    @apply text-[aliceblue];
+  }
 }
