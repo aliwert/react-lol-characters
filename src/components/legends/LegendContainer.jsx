@@ -27,8 +27,8 @@ const LegendContainer = () => {
       />
       <Container className="p-3 rounded-4 card-container my-3">
         <Row xs={1} md={2} lg={3} className="justify-content-center g-3">
-          {filteredData.map((legend) => (
-            <LegendCard key={legend.id} legend={legend} />
+          {filteredData.map((characters) => (
+            <LegendCard key={characters.id} characters={characters} />
           ))}
         </Row>
       </Container>

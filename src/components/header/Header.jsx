@@ -5,8 +5,9 @@ import logo from "../../assets/logo.png";
 const Header = () => {
   return (
     <Container>
-      <Image src={logo} width="200px" /><br/>
-      <h1 className="my-2 title">League Of Legends Characters</h1>
+      <Image src={logo} width="200px" />
+      <br />
+      <h1 className="my-2 title bg-primary h1">League Of Legends Characters</h1>
     </Container>
   );
 };
