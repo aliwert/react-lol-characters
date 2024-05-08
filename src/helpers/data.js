@@ -134,10 +134,10 @@ export const data = [
     name: "Aurelion Sol",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5dd3569fc67d6664/5db05fa8bd24496c390ae4d8/RiotX_ChampionList_aurelionsol.jpg?quality=90&width=250",
     statistics: [
-      "7.41 % Pick Rate",
-      "51.85 % Win Rate",
-      "48.15 % Lose Rate",
-      "8.56 % Ban Rate",
+      "7.41% Pick Rate",
+      "51.85% Win Rate",
+      "48.15% Lose Rate",
+      "8.56% Ban Rate",
     ],
 
     role: "Mid",
@@ -147,10 +147,10 @@ export const data = [
     name: "Azir",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0e3f847946232167/5db05fa889fb926b491ed7ff/RiotX_ChampionList_azir.jpg?quality=90&width=250",
     statistics: [
-      "3.77 % Pick Rate",
-      "46.12 % Win Rate",
-      "53.88 % Lose Rate",
-      "0.9 % Ban Rate",
+      "3.77% Pick Rate",
+      "46.12% Win Rate",
+      "53.88% Lose Rate",
+      "0.9% Ban Rate",
     ],
 
     role: "Mid",
@@ -160,10 +160,10 @@ export const data = [
     name: "Bard",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbbe3ce0c0ae1305b/5db05fb23a326d6df6c0e7b3/RiotX_ChampionList_bard.jpg?quality=90&width=250",
     statistics: [
-      "1.94 % Pick Rate",
-      "49.58 % Win Rate",
-      "50.42 % Lose Rate",
-      "0.38 % Ban Rate",
+      "1.94% Pick Rate",
+      "49.58% Win Rate",
+      "50.42% Lose Rate",
+      "0.38% Ban Rate",
     ],
 
     role: "Support",
@@ -173,10 +173,10 @@ export const data = [
     name: "Bel'Veth",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt9f765d79de67f50e/629ea266a3e9730f695d114a/RiotX_ChampionList_belveth.jpg?quality=90&width=250",
     statistics: [
-      "3.58 % Pick Rate",
-      "50.93 % Win Rate",
-      "48.86 % Lose Rate",
-      "6.17 % Ban Rate",
+      "3.58% Pick Rate",
+      "50.93% Win Rate",
+      "48.86% Lose Rate",
+      "6.17% Ban Rate",
     ],
 
     role: "Jungle",
@@ -186,10 +186,10 @@ export const data = [
     name: "Blitzcrank",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd7ef7e56ce1fe17b/5db05fb26af83b6d7032c8f8/RiotX_ChampionList_blitzcrank.jpg?quality=90&width=250",
     statistics: [
-      "7.77 % Pick Rate",
-      "50.74 % Win Rate",
-      "49.26 % Lose Rate",
-      "31.35 % Ban Rate",
+      "7.77% Pick Rate",
+      "50.74% Win Rate",
+      "49.26% Lose Rate",
+      "31.35% Ban Rate",
     ],
 
     role: "Support",
@@ -199,10 +199,10 @@ export const data = [
     name: "Brand",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc8ca2e9bba653dda/5db05fb2dc674266df3d5d30/RiotX_ChampionList_brand.jpg?quality=90&width=250",
     statistics: [
-      "11.27 % Pick Rate",
-      "52.37 % Win Rate",
-      "47.63 % Lose Rate",
-      "9.65 % Ban Rate",
+      "11.27% Pick Rate",
+      "52.37% Win Rate",
+      "47.63% Lose Rate",
+      "9.65% Ban Rate",
     ],
 
     role: "Mid - Support",
@@ -212,10 +212,10 @@ export const data = [
     name: "Braum",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd140e30fa86d6ddd/5db05fb2242f426df132f95d/RiotX_ChampionList_braum.jpg?quality=90&width=250",
     statistics: [
-      "3.65 % Pick Rate",
-      "51.71 % Win Rate",
-      "48.29 % Lose Rate",
-      "0.96 % Ban Rate",
+      "3.65% Pick Rate",
+      "51.71% Win Rate",
+      "48.29% Lose Rate",
+      "0.96% Ban Rate",
     ],
 
     role: "Support",
@@ -225,10 +225,10 @@ export const data = [
     name: "Briar",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt8d315d0ddcc546e6/64ffcd579e7ba67795caac6e/RiotX_ChampionList_briar_v2.jpg?quality=90&width=250",
     statistics: [
-      "6.63 % Pick Rate",
-      "52.5 % Win Rate",
-      "47.5 % Lose Rate",
-      "18.63 % Ban Rate",
+      "6.63% Pick Rate",
+      "52.5% Win Rate",
+      "47.5% Lose Rate",
+      "18.63% Ban Rate",
     ],
 
     role: "Jungle - Solo",
@@ -238,10 +238,10 @@ export const data = [
     name: "Caitlyn",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt014f4b6fc9bacd10/61b1eb901d158d4007de9685/RiotX_ChampionList_caitlyn_v2.jpg?quality=90&width=250",
     statistics: [
-      "16.19 % Pick Rate",
-      "50.52 % Win Rate",
-      "49.48 % Lose Rate",
-      "11.97 % Ban Rate",
+      "16.19% Pick Rate",
+      "50.52% Win Rate",
+      "49.48% Lose Rate",
+      "11.97% Ban Rate",
     ],
 
     role: "ADC",
@@ -251,10 +251,10 @@ export const data = [
     name: "Camille",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt413fcd7681fe0773/5db05fb089fb926b491ed805/RiotX_ChampionList_camille.jpg?quality=90&width=250",
     statistics: [
-      "6.05 % Pick Rate",
-      "51.23 % Win Rate",
-      "48.77 % Lose Rate",
-      "4.49 % Ban Rate",
+      "6.05% Pick Rate",
+      "51.23% Win Rate",
+      "48.77% Lose Rate",
+      "4.49% Ban Rate",
     ],
 
     role: "Solo - Jungle",
@@ -264,10 +264,10 @@ export const data = [
     name: "Cassiopeia",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte189be8189da97ea/5db05fb1bd24496c390ae4de/RiotX_ChampionList_cassiopeia.jpg?quality=90&width=250",
     statistics: [
-      "2.31 % Pick Rate",
-      "51.18 % Win Rate",
-      "49.82 % Lose Rate",
-      "1.65 % Ban Rate",
+      "2.31% Pick Rate",
+      "51.18% Win Rate",
+      "49.82% Lose Rate",
+      "1.65% Ban Rate",
     ],
 
     role: "Mid",
@@ -277,10 +277,10 @@ export const data = [
     name: "Cho'Gath",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4dfb71de3ddc8166/5db05fb13a326d6df6c0e7ad/RiotX_ChampionList_chogath.jpg?quality=90&width=250",
     statistics: [
-      "3.09 % Pick Rate",
-      "49.07 % Win Rate",
-      "50.93 % Lose Rate",
-      "0.67 % Ban Rate",
+      "3.09% Pick Rate",
+      "49.07% Win Rate",
+      "50.93% Lose Rate",
+      "0.67% Ban Rate",
     ],
 
     role: "Solo",
@@ -290,10 +290,10 @@ export const data = [
     name: "Corki",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltdd918c4d0a86347a/5db05fb1df78486c826dccee/RiotX_ChampionList_corki.jpg?quality=90&width=250",
     statistics: [
-      "1.58 % Pick Rate",
-      "46.03 % Win Rate",
-      "53.97 % Lose Rate",
-      "0.17 % Ban Rate",
+      "1.58% Pick Rate",
+      "46.03% Win Rate",
+      "53.97% Lose Rate",
+      "0.17% Ban Rate",
     ],
 
     role: "Mid",
@@ -303,10 +303,10 @@ export const data = [
     name: "Darius",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt38b52be4a2cb1004/5db05fb19481396d6bdd01ac/RiotX_ChampionList_darius.jpg?quality=90&width=250",
     statistics: [
-      "9.89 % Pick Rate",
-      "49.93 % Win Rate",
-      "50.07 % Lose Rate",
-      "22.45 % Ban Rate",
+      "9.89% Pick Rate",
+      "49.93% Win Rate",
+      "50.07% Lose Rate",
+      "22.45% Ban Rate",
     ],
 
     role: "Solo",
@@ -316,10 +316,10 @@ export const data = [
     name: "Diana",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt56570083d2a5e20e/5db05fbc823d426762825fdf/RiotX_ChampionList_diana.jpg?quality=90&width=250",
     statistics: [
-      "12.77 % Pick Rate",
-      "51.24 % Win Rate",
-      "48.76 % Lose Rate",
-      "5.51 % Ban Rate",
+      "12.77% Pick Rate",
+      "51.24% Win Rate",
+      "48.76% Lose Rate",
+      "5.51% Ban Rate",
     ],
 
     role: "Mid - Jungle",
@@ -329,10 +329,10 @@ export const data = [
     name: "Dr. Mundo",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte88a3d7e9e408904/61b1ea136a78b87751002a68/RiotX_ChampionList_drmundo_v2.jpg?quality=90&width=250",
     statistics: [
-      "4.52 % Pick Rate",
-      "52.17 % Win Rate",
-      "47.83 % Lose Rate",
-      "3.22 % Ban Rate",
+      "4.52% Pick Rate",
+      "52.17% Win Rate",
+      "47.83% Lose Rate",
+      "3.22% Ban Rate",
     ],
 
     role: "Solo",
@@ -342,10 +342,10 @@ export const data = [
     name: "Draven",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc0be728e4cbb8f2a/5db05fbc89fb926b491ed80b/RiotX_ChampionList_draven.jpg?quality=90&width=250",
     statistics: [
-      "5.43 % Pick Rate",
-      "49.04 % Win Rate",
-      "50.96 % Lose Rate",
-      "15.38 % Ban Rate",
+      "5.43% Pick Rate",
+      "49.04% Win Rate",
+      "50.96% Lose Rate",
+      "15.38% Ban Rate",
     ],
 
     role: "ADC",
@@ -355,10 +355,10 @@ export const data = [
     name: "Ekko",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf22ba7e6328e4376/5db05fbd242f426df132f963/RiotX_ChampionList_ekko.jpg?quality=90&width=250",
     statistics: [
-      "6.51 % Pick Rate",
-      "50.03 % Win Rate",
-      "49.97 % Lose Rate",
-      "1.92 % Ban Rate",
+      "6.51% Pick Rate",
+      "50.03% Win Rate",
+      "49.97% Lose Rate",
+      "1.92% Ban Rate",
     ],
 
     role: "Jungle - Mid",
@@ -368,10 +368,10 @@ export const data = [
     name: "Elise",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfe21ff2ddb84d5d1/5db05fbd0b39e86c2f83dc05/RiotX_ChampionList_elise.jpg?quality=90&width=250",
     statistics: [
-      "1.63 % Pick Rate",
-      "50.12 % Win Rate",
-      "48.88 % Lose Rate",
-      "0.75 % Ban Rate",
+      "1.63% Pick Rate",
+      "50.12% Win Rate",
+      "48.88% Lose Rate",
+      "0.75% Ban Rate",
     ],
 
     role: "Jungle",
@@ -381,10 +381,10 @@ export const data = [
     name: "Evelynn",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blte24b4c6ec1beebb9/5db05fbddf78486c826dccf4/RiotX_ChampionList_evelynn.jpg?quality=90&width=250",
     statistics: [
-      "3.85 % Pick Rate",
-      "49.7 % Win Rate",
-      "51.3 % Lose Rate",
-      "7.23 % Ban Rate",
+      "3.85% Pick Rate",
+      "49.7% Win Rate",
+      "51.3% Lose Rate",
+      "7.23% Ban Rate",
     ],
 
     role: "Jungle",

@@ -18,7 +18,7 @@ const LegendCard = ({characters}) => {
               <Card.Title className="h4">{characters.name}</Card.Title>
               <span className="h4" style={{color : 'red'}}>{characters.role}</span>
             </Card.Header>
-            <ul className="m-auto">
+            <ul className="m-auto card">
               {characters.statistics.map((item) => (
                 <li className="list-unstyled h5 text-start">
                   {" "}
