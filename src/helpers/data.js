@@ -43,10 +43,10 @@ export const data = [
     name: "Akshan",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltdd84b33ec501c137/60f9ede33f40e5481e85c0c6/RiotX_ChampionList_akshan_v2.jpg?quality=90&width=250",
     statistics: [
-      "2.65 % Pick Rate",
-      "50.94 % Win Rate",
-      "49.06 % Lose Rate",
-      "3.95 % Ban Rate",
+      "2.65% Pick Rate",
+      "50.94% Win Rate",
+      "49.06% Lose Rate",
+      "3.95% Ban Rate",
     ],
 
     role: "Solo - Mid",
@@ -56,10 +56,10 @@ export const data = [
     name: "Alistar",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3b366925d2fd8fdb/5db05fa856458c6b3fc1750b/RiotX_ChampionList_alistar.jpg?quality=90&width=250",
     statistics: [
-      "3.48 % Pick Rate",
-      "49.78 % Win Rate",
-      "50.22 % Lose Rate",
-      "1.25 % Ban Rate",
+      "3.48 Pick Rate",
+      "49.78 Win Rate",
+      "50.22 Lose Rate",
+      "1.25% Ban Rate",
     ],
 
     role: "Support",
@@ -69,10 +69,10 @@ export const data = [
     name: "Amumu",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt40dfbe48a61c439f/5db05fa80b39e86c2f83dbf9/RiotX_ChampionList_amumu.jpg?quality=90&width=250",
     statistics: [
-      "4.51 % Pick Rate",
-      "50.93 % Win Rate",
-      "49.07 % Lose Rate",
-      "1.15 % Ban Rate",
+      "4.51% Pick Rate",
+      "50.93% Win Rate",
+      "49.07% Lose Rate",
+      "1.15% Ban Rate",
     ],
 
     role: "Jungle - Support",
@@ -82,10 +82,10 @@ export const data = [
     name: "Anivia",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3d24a1482453088a/5db05fa8df78486c826dcce8/RiotX_ChampionList_anivia.jpg?quality=90&width=250",
     statistics: [
-      "2.38 % Pick Rate",
-      "51.53 % Win Rate",
-      "48.47 % Lose Rate",
-      "1.51 % Ban Rate",
+      "2.38% Pick Rate",
+      "51.53% Win Rate",
+      "48.47% Lose Rate",
+      "1.51% Ban Rate",
     ],
 
     role: "Mid - Support",
@@ -95,10 +95,10 @@ export const data = [
     name: "Annie",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt28c708665427aef6/5db05fa89481396d6bdd01a6/RiotX_ChampionList_annie.jpg?quality=90&width=250",
     statistics: [
-      "2.62 % Pick Rate",
-      "50.93 % Win Rate",
-      "49.07 % Lose Rate",
-      "0.78 % Ban Rate",
+      "2.62% Pick Rate",
+      "50.93% Win Rate",
+      "49.07% Lose Rate",
+      "0.78% Ban Rate",
     ],
 
     role: "Mid",
@@ -108,10 +108,10 @@ export const data = [
     name: "Aphelios",
     img: "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
     statistics: [
-      "4.34 % Pick Rate",
-      "48.63 % Win Rate",
-      "51.37 % Lose Rate",
-      "0.73 % Ban Rate",
+      "4.34% Pick Rate",
+      "48.63% Win Rate",
+      "51.37% Lose Rate",
+      "0.73% Ban Rate",
     ],
 
     role: "ADC",
@@ -121,10 +121,10 @@ export const data = [
     name: "Ashe",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt943aae038e2dee98/5db05fa8e9effa6ba5295f91/RiotX_ChampionList_ashe.jpg?quality=90&width=250",
     statistics: [
-      "15.08 % Pick Rate",
-      "50.01 % Win Rate",
-      "49.99 % Lose Rate",
-      "5.6 % Ban Rate",
+      "15.08% Pick Rate",
+      "50.01% Win Rate",
+      "49.99% Lose Rate",
+      "5.6% Ban Rate",
     ],
 
     role: "ADC - Support",
@@ -582,7 +582,7 @@ export const data = [
       "14.41 % Ban Rate",
     ],
 
-    role: "1991-2013",
+    role: "Solo",
   },
   {
     id: 46,
@@ -595,7 +595,7 @@ export const data = [
       "9.81 % Ban Rate",
     ],
 
-    role: "1981-1998",
+    role: "Solo - Mid",
   },
   {
     id: 47,
@@ -608,7 +608,7 @@ export const data = [
       "0.46 % Ban Rate",
     ],
 
-    role: "1973-1988",
+    role: "Jungle",
   },
   {
     id: 48,
@@ -621,7 +621,7 @@ export const data = [
       "3.64 % Ban Rate",
     ],
 
-    role: "1993-2017",
+    role: "Support",
   },
   {
     id: 49,
@@ -634,7 +634,7 @@ export const data = [
       "0.84 % Ban Rate",
     ],
 
-    role: "2009-Present",
+    role: "Jungle",
   },
   {
     id: 50,
@@ -647,7 +647,7 @@ export const data = [
       "10.82 % Ban Rate",
     ],
 
-    role: "2008-Present",
+    role: "Solo - Jungle",
   },
   {
     id: 51,
@@ -660,7 +660,7 @@ export const data = [
       "2.3 % Ban Rate",
     ],
 
-    role: "1985-2010",
+    role: "Solo - Mid",
   },
   {
     id: 52,
@@ -673,7 +673,7 @@ export const data = [
       "12.29 % Ban Rate",
     ],
 
-    role: "1966-1988",
+    role: "ADC",
   },
   {
     id: 53,
@@ -686,7 +686,7 @@ export const data = [
       "18.96 % Ban Rate",
     ],
 
-    role: "1956-1978",
+    role: "ADC",
   },
   {
     id: 54,
@@ -699,7 +699,7 @@ export const data = [
       "1.6 % Ban Rate",
     ],
 
-    role: "1995-2018",
+    role: "Solo",
   },
   {
     id: 55,
@@ -712,7 +712,7 @@ export const data = [
       "2.34 % Ban Rate",
     ],
 
-    role: "1991-2016",
+    role: "ADC",
   },
   {
     id: 56,
@@ -725,7 +725,7 @@ export const data = [
       "1.11 % Ban Rate",
     ],
 
-    role: "2004-2023",
+    role: "ADC",
   },
   {
     id: 57,
@@ -738,7 +738,7 @@ export const data = [
       "5.58% Ban Rate",
     ],
 
-    role: "1980-2004",
+    role: "Support",
   },
   {
     id: 58,
@@ -751,7 +751,7 @@ export const data = [
       "1.89% Ban Rate",
     ],
 
-    role: "1990-2016",
+    role: "Jungle",
   },
   {
     id: 59,
@@ -764,7 +764,7 @@ export const data = [
       "5.24% Ban Rate",
     ],
 
-    role: "1996-2020",
+    role: "Mid",
   },
   {
     id: 60,
@@ -777,7 +777,7 @@ export const data = [
       "7.9% Ban Rate",
     ],
 
-    role: "1997-2018",
+    role: "Mid",
   },
   {
     id: 61,
@@ -790,7 +790,7 @@ export const data = [
       "1.62% Ban Rate",
     ],
 
-    role: "1992-2011",
+    role: "Solo",
   },
   {
     id: 62,
@@ -803,7 +803,7 @@ export const data = [
       "6.79% Ban Rate",
     ],
 
-    role: "1980-2010",
+    role: "Jungle",
   },
   {
     id: 63,
@@ -816,7 +816,7 @@ export const data = [
       "0.52% Ban Rate",
     ],
 
-    role: "1978-1999",
+    role: "Solo",
   },
   {
     id: 64,
@@ -829,7 +829,7 @@ export const data = [
       "3.29% Ban Rate",
     ],
 
-    role: "1996-2020",
+    role: "Jungle",
   },
   {
     id: 65,
@@ -842,7 +842,7 @@ export const data = [
       "1.66% Ban Rate",
     ],
 
-    role: "2005-Present",
+    role: "Jungle",
   },
   {
     id: 66,
@@ -855,7 +855,7 @@ export const data = [
       "0.82% Ban Rate",
     ],
 
-    role: "2002-Present",
+    role: "Solo",
   },
   {
     id: 67,
@@ -867,7 +867,7 @@ export const data = [
       "46.73% Lose Rate",
       "2.14% Ban Rate",
     ],
-    role: "1934-1966",
+    role: "ADC",
   },
   {
     id: 68,
@@ -880,7 +880,7 @@ export const data = [
       "7.9% Ban Rate",
     ],
 
-    role: "2000-Present",
+    role: "Mid",
   },
   {
     id: 69,
@@ -893,7 +893,7 @@ export const data = [
       "14.29% Ban Rate",
     ],
 
-    role: "1992-2015",
+    role: "Jungle",
   },
   {
     id: 70,
@@ -906,7 +906,7 @@ export const data = [
       "6% Ban Rate",
     ],
 
-    role: "2002-Present",
+    role: "Support",
   },
   {
     id: 71,
@@ -918,7 +918,7 @@ export const data = [
       "48.92% Lose Rate",
       "2.94% Ban Rate",
     ],
-    role: "1999-2020",
+    role: "Jungle",
   },
   {
     id: 72,
@@ -930,6 +930,7 @@ export const data = [
       "51% Lose Rate",
       "1.17% Ban Rate",
     ],
+    role: "Mid",
   },
   {
     id: 73,
@@ -942,7 +943,7 @@ export const data = [
       "4.49% Ban Rate",
     ],
 
-    role: "1995-2020",
+    role: "ADC",
   },
   {
     id: 74,
@@ -955,7 +956,7 @@ export const data = [
       "4.78% Ban Rate",
     ],
 
-    role: "1971-1995",
+    role: "Support",
   },
   {
     id: 75,
@@ -967,6 +968,6 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "1988-2007",
+    role: "Support - Mid",
   },
 ];
