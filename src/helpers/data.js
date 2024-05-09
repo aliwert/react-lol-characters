@@ -1727,7 +1727,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 139,
     name: "Twitch",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1739,7 +1739,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 140,
     name: "Udyr",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1751,7 +1751,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 141,
     name: "Urgot",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1763,7 +1763,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 142,
     name: "Varus",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1775,7 +1775,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 143,
     name: "Vayne",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1787,7 +1787,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 144,
     name: "Veigar",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1799,7 +1799,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 145,
     name: "Vel'Koz",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1811,7 +1811,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 146,
     name: "Vex",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1823,7 +1823,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 147,
     name: "Vi",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1835,7 +1835,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 148,
     name: "Viego",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1847,7 +1847,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 149,
     name: "Viktor",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1859,7 +1859,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 150,
     name: "Vladimir",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1871,7 +1871,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 151,
     name: "Volibear",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1883,7 +1883,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 152,
     name: "Warwick",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1895,7 +1895,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 153,
     name: "Wukong",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1907,7 +1907,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 154,
     name: "Xayah",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1919,7 +1919,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 155,
     name: "Xerath",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1931,7 +1931,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 156,
     name: "Xin Zhao",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1943,7 +1943,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 157,
     name: "800K Yasuo",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1955,7 +1955,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 158,
     name: "Yone",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1967,7 +1967,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 159,
     name: "Yorick",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1979,7 +1979,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 160,
     name: "Yuumi",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1991,7 +1991,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 161,
     name: "Zac",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2003,7 +2003,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 162,
     name: "Zed",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2015,7 +2015,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 163,
     name: "Zeri",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2027,7 +2027,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 164,
     name: "Ziggs",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2039,7 +2039,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 165,
     name: "Zilean",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2051,7 +2051,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 166,
     name: "Zoe",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -2063,7 +2063,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 167,
     name: "Zyra",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
