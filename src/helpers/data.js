@@ -1448,7 +1448,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 116,
@@ -1460,7 +1460,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 117,
@@ -1472,7 +1472,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 117,
@@ -1484,7 +1484,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 118,
@@ -1496,7 +1496,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 119,
@@ -1508,7 +1508,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 120,
@@ -1520,7 +1520,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 121,
@@ -1532,7 +1532,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 123,
@@ -1544,7 +1544,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 124,
@@ -1580,7 +1580,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Support",
   },
   {
     id: 127,
@@ -1592,7 +1592,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Jungle",
   },
   {
     id: 128,
@@ -1604,7 +1604,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 129,
@@ -1616,7 +1616,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Support - Solo",
   },
   {
     id: 130,
@@ -1628,7 +1628,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 131,
@@ -1640,7 +1640,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Jungle",
   },
   {
     id: 132,
@@ -1664,7 +1664,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 134,
@@ -1688,7 +1688,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 136,
@@ -1700,7 +1700,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle - Solo",
   },
   {
     id: 137,
@@ -1712,7 +1712,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 138,
@@ -1724,7 +1724,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 139,
@@ -1736,7 +1736,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC - Jungle",
   },
   {
     id: 140,
@@ -1748,7 +1748,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 141,
@@ -1760,7 +1760,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 142,
@@ -1772,7 +1772,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 143,
@@ -1784,7 +1784,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC - Solo",
   },
   {
     id: 144,
@@ -1796,7 +1796,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 145,
@@ -1808,7 +1808,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Jungle",
   },
   {
     id: 146,
@@ -1820,7 +1820,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 147,
@@ -1832,7 +1832,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 148,
@@ -1844,7 +1844,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 149,
@@ -1856,7 +1856,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 150,
@@ -1868,7 +1868,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo - Mid",
   },
   {
     id: 151,
@@ -1880,7 +1880,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle - Solo",
   },
   {
     id: 152,
@@ -1892,7 +1892,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle - Solo",
   },
   {
     id: 153,
@@ -1904,7 +1904,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle - Solo",
   },
   {
     id: 154,
@@ -1916,7 +1916,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 155,
@@ -1928,7 +1928,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 156,
@@ -1940,7 +1940,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 157,
@@ -1952,7 +1952,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Solo - Jungle - ADC (I've even seen someone playing support)",
   },
   {
     id: 158,
@@ -1964,7 +1964,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Solo",
   },
   {
     id: 159,
@@ -1976,7 +1976,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Solo",
   },
   {
     id: 160,
@@ -2000,7 +2000,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Jungle",
   },
   {
     id: 162,
@@ -2012,7 +2012,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - Jungle",
   },
   {
     id: 163,
@@ -2024,7 +2024,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "ADC",
   },
   {
     id: 164,
@@ -2036,7 +2036,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid - ADC",
   },
   {
     id: 165,
@@ -2060,7 +2060,7 @@ export const data = [
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Support",
+    role: "Mid",
   },
   {
     id: 167,
