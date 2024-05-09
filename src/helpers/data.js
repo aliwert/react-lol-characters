@@ -1441,7 +1441,7 @@ export const data = [
   {
     id: 115,
     name: "Sett",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1453,19 +1453,19 @@ export const data = [
   {
     id: 116,
     name: "Shaco",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc8b1d1ba926d01cc/5db060036e8b0c6d038c5cba/RiotX_ChampionList_shaco.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Jungle",
+    role: "Jungle - Support",
   },
   {
     id: 117,
     name: "Shen",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd142d174831b78e9/5db06004242f426df132f97f/RiotX_ChampionList_shen.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1477,7 +1477,7 @@ export const data = [
   {
     id: 117,
     name: "Shyvana",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltdb320ec49e0e02a7/5db0600456458c6b3fc1752d/RiotX_ChampionList_shyvana.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1489,7 +1489,7 @@ export const data = [
   {
     id: 118,
     name: "Singed",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt766d98c27adfde28/5db06004347d1c6baa57be4f/RiotX_ChampionList_singed.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1501,7 +1501,7 @@ export const data = [
   {
     id: 119,
     name: "Sion",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7f28f1d689e4ad3d/5db06004adc8656c7d24e802/RiotX_ChampionList_sion.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1513,7 +1513,7 @@ export const data = [
   {
     id: 120,
     name: "Sivir",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltbe8ea8bfd98ec1f3/64e68c98ffe8ee4e4c3e7707/RiotX_ChampionList_sivir_v2.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1525,7 +1525,7 @@ export const data = [
   {
     id: 121,
     name: "Skarner",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt842a8149ba8b7a3d/660b135cc095f86081c662d4/RiotX_ChampionList_skarner_v2.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1537,7 +1537,7 @@ export const data = [
   {
     id: 123,
     name: "Smolder",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb0f1a69639b0abdf/65b85c8e24ea490a81de5f8f/RiotX_ChampionList_smolder_v2.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1549,7 +1549,7 @@ export const data = [
   {
     id: 124,
     name: "Sona",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4810827f74fc21b9/5db06003347d1c6baa57be49/RiotX_ChampionList_sona.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1561,7 +1561,7 @@ export const data = [
   {
     id: 125,
     name: "Soraka",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt2141839fdc483592/5db06003e9effa6ba5295fad/RiotX_ChampionList_soraka.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1573,7 +1573,7 @@ export const data = [
   {
     id: 126,
     name: "Swain",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1a64e469280b8b9f/5db060030b39e86c2f83dc25/RiotX_ChampionList_swain.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1585,7 +1585,7 @@ export const data = [
   {
     id: 127,
     name: "Sylas",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf8ea29aa48fc5e35/5db0600cadc8656c7d24e808/RiotX_ChampionList_sylas.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1597,7 +1597,7 @@ export const data = [
   {
     id: 128,
     name: "Syndra",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd9308eedab3a6fa5/5db0600c3a326d6df6c0e7bf/RiotX_ChampionList_syndra.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1609,7 +1609,7 @@ export const data = [
   {
     id: 129,
     name: "Tahm Kench",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt87be9cf38f3bc986/5db0600c56458c6b3fc17533/RiotX_ChampionList_tahmkench.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1621,19 +1621,19 @@ export const data = [
   {
     id: 130,
     name: "Taliyah",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt35c3537198ee86b9/5db05fc52140ec675d68f49b/RiotX_ChampionList_ialiyah.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
       "49.72% Lose Rate",
       "13.69% Ban Rate",
     ],
-    role: "Jungle",
+    role: "Jungle - Mid",
   },
   {
     id: 131,
     name: "Talon",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt20a737f99ebcd027/5db0600c89fb926b491ed829/RiotX_ChampionList_talon.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1645,7 +1645,7 @@ export const data = [
   {
     id: 132,
     name: "Taric",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6b2d37773c3621e1/5db0600d347d1c6baa57be55/RiotX_ChampionList_taric.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1657,7 +1657,7 @@ export const data = [
   {
     id: 133,
     name: "Teemo",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt30ddbbdc0549078a/5db0600da6470d6ab91ce5b8/RiotX_ChampionList_teemo.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1669,7 +1669,7 @@ export const data = [
   {
     id: 134,
     name: "Thresh",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt46555de3bfa94d44/5db0600b2140ec675d68f4b5/RiotX_ChampionList_thresh.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1681,7 +1681,7 @@ export const data = [
   {
     id: 135,
     name: "Tristana",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfbbc3205edf5207a/5db0600bdc674266df3d5d50/RiotX_ChampionList_tristana.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1693,7 +1693,7 @@ export const data = [
   {
     id: 136,
     name: "Trundle",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt05eb0518bbe963c0/5db0600ba6470d6ab91ce5b2/RiotX_ChampionList_trundle.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
