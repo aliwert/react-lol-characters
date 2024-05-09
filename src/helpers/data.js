@@ -1042,4 +1042,40 @@ export const data = [
     ],
     role: "ADC",
   },
+  {
+    id: 82,
+    name: "Mordekaiser",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7683195e1c4f6706/621ed30fba043c4a2c4a9f7a/RiotX_ChampionList_mordekaiser_v2.jpg?quality=90&width=250",
+    statistics: [
+      "18.76% Pick Rate",
+      "50.28% Win Rate",
+      "49.72% Lose Rate",
+      "13.69% Ban Rate",
+    ],
+    role: "Solo",
+  },
+  {
+    id: 83,
+    name: "Morgana",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc81eece55f126d2d/5db05fe86af83b6d7032c904/RiotX_ChampionList_morgana.jpg?quality=90&width=250",
+    statistics: [
+      "18.76% Pick Rate",
+      "50.28% Win Rate",
+      "49.72% Lose Rate",
+      "13.69% Ban Rate",
+    ],
+    role: "Support - Mid - Jungle",
+  },
+  {
+    id: 84,
+    name: "Naafiri",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt08b4cd0a1ca05cd3/64b8cd3bff3e9b769c4d7646/RiotX_ChampionList_naafiri.jpg?quality=90&width=250",
+    statistics: [
+      "18.76% Pick Rate",
+      "50.28% Win Rate",
+      "49.72% Lose Rate",
+      "13.69% Ban Rate",
+    ],
+    role: "Mid",
+  },
 ];
