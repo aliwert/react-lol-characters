@@ -25,6 +25,9 @@
   .player-card {
     @apply h-[350px] overflow-hidden hover:shadow-[3px_3px_20px_5px_#bb111180];
   }
+  .name {
+    color: blue;
+  }
   .player-card img {
     @apply transition-transform duration-[0.8s] ease-[ease-in-out] h-full w-full;
     filter: drop-shadow(20px 20px 20px black);

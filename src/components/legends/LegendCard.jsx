@@ -1,10 +1,15 @@
-import {useState} from "react"
-import { Col, Container, Row } from "react-bootstrap"; 
+import { useState } from "react";
+import { Col, Container, Row } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
-const LegendCard = ({characters}) => {
-    const [show,setShow] = useState(false);
-    return   <Col>
-      <Card className="player-card" role="button" onClick={() => setShow(!show)}>
+const LegendCard = ({ characters }) => {
+  const [show, setShow] = useState(false);
+  return (
+    <Col>
+      <Card
+        className="player-card"
+        role="button"
+        onClick={() => setShow(!show)}
+      >
         {!show ? (
           <Card.Img
             variant="top"
@@ -15,24 +20,28 @@ const LegendCard = ({characters}) => {
         ) : (
           <>
             <Card.Header>
-              <Card.Title className="h4">{characters.name}</Card.Title>
-              <span className="h4" style={{color : 'red'}}>{characters.role}</span>
+              <Card.Title className="h2">
+                {" "}
+                <span className="name">{characters.name}</span>
+              </Card.Title>
+              <span className="h4" style={{ color: "red" }}>
+                {characters.role}
+              </span>
             </Card.Header>
             <ul className="m-auto card">
               {characters.statistics.map((item) => (
                 <li className="list-unstyled h5 text-start">
                   {" "}
-                  🎮 {item}<br></br>
-                  
+                  📈 {item}
+                  <br></br>
                 </li>
               ))}
             </ul>
-           
           </>
         )}
       </Card>
     </Col>
-}
+  );
+};
 
-export default LegendCard
-
+export default LegendCard;
