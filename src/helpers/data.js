@@ -1932,7 +1932,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Xin Zhao",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -1944,7 +1944,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "800K Yasuo",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -1956,7 +1956,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Yone",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -1968,7 +1968,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Yorick",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -1980,7 +1980,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Yuumi",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -1992,7 +1992,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zac",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2004,7 +2004,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zed",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2016,7 +2016,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zeri",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2028,7 +2028,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Ziggs",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2040,7 +2040,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zilean",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2052,7 +2052,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zoe",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
@@ -2064,7 +2064,7 @@ export const data = [
   },
   {
     id: 87,
-    name: "Thresh",
+    name: "Zyra",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
