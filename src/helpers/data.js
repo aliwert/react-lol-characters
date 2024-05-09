@@ -1117,7 +1117,7 @@ export const data = [
   {
     id: 88,
     name: "Neeko",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta62eaac6ad26a4f5/5db05fe7adc8656c7d24e7ea/RiotX_ChampionList_neeko.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1129,7 +1129,7 @@ export const data = [
   {
     id: 89,
     name: "Nidalee",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5a2da06d413f7c15/5db05ff1df78486c826dcd18/RiotX_ChampionList_nidalee.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1139,9 +1139,9 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 90,
     name: "Nilah",
-    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
+    img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltc92991f7da20f09e/62cf498d8196b233b76a6ca8/RiotX_ChampionList_nilah.jpg?quality=90&width=250",
     statistics: [
       "18.76% Pick Rate",
       "50.28% Win Rate",
@@ -1151,7 +1151,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 91,
     name: "Nocturne",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1163,7 +1163,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 92,
     name: "Nunu & Willump",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1175,7 +1175,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 93,
     name: "Olaf",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1187,7 +1187,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 94,
     name: "Orianna",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1199,7 +1199,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 95,
     name: "Ornn",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1211,7 +1211,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 96,
     name: "Pantheon",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1223,7 +1223,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 97,
     name: "Poppy",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1235,7 +1235,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 98,
     name: "Pyke",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1247,7 +1247,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 99,
     name: "Qiyana",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1259,7 +1259,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 100,
     name: "Quinn",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1271,7 +1271,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 101,
     name: "Rakan",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1283,7 +1283,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 102,
     name: "Rammus",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1295,7 +1295,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 103,
     name: "Rek'Sai",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1307,7 +1307,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 104,
     name: "Rell",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1319,7 +1319,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 105,
     name: "Renata Glasc",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1331,7 +1331,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 106,
     name: "Renekton",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1343,7 +1343,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 107,
     name: "Renekton",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1355,7 +1355,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 108,
     name: "Riven",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1367,7 +1367,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 109,
     name: "Rumble",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1379,7 +1379,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 110,
     name: "Ryze",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1391,7 +1391,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 111,
     name: "Samira",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1403,7 +1403,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 112,
     name: "Sejuani",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1415,7 +1415,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 113,
     name: "Senna",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1427,7 +1427,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 114,
     name: "Seraphine",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1439,7 +1439,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 115,
     name: "Sett",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1451,7 +1451,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 116,
     name: "Shaco",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1463,7 +1463,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 117,
     name: "Shen",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1475,7 +1475,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 117,
     name: "Shyvana",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1487,7 +1487,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 118,
     name: "Singed",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1499,7 +1499,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 119,
     name: "Sion",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1511,7 +1511,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 120,
     name: "Sivir",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1523,7 +1523,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 121,
     name: "Skarner",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1535,7 +1535,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 123,
     name: "Smolder",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1547,7 +1547,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 124,
     name: "Sona",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1559,7 +1559,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 125,
     name: "Soraka",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1571,7 +1571,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 126,
     name: "Swain",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1583,7 +1583,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 127,
     name: "Sylas",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1595,7 +1595,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 128,
     name: "Syndra",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1607,7 +1607,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 129,
     name: "Tahm Kench",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1619,7 +1619,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 130,
     name: "Taliyah",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1631,7 +1631,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 131,
     name: "Talon",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1643,7 +1643,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 132,
     name: "Taric",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1655,7 +1655,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 133,
     name: "Teemo",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1667,7 +1667,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 134,
     name: "Thresh",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1679,7 +1679,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 135,
     name: "Tristana",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1691,7 +1691,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 136,
     name: "Trundle",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1703,7 +1703,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 137,
     name: "Tryndamere",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
@@ -1715,7 +1715,7 @@ export const data = [
     role: "Support",
   },
   {
-    id: 87,
+    id: 138,
     name: "Twisted Fate",
     img: "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf945a57aa16cea57/5db05fe7347d1c6baa57be37/RiotX_ChampionList_nautilus.jpg?quality=90&width=250",
     statistics: [
