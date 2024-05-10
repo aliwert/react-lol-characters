@@ -1,6 +1,8 @@
 import Container from "react-bootstrap/Container";
 import Image from "react-bootstrap/Image";
 import logo from "../../assets/logo.png";
+import Switch from "../switch/Switch";
+
 
 const Header = () => {
   return (
@@ -12,7 +14,7 @@ const Header = () => {
         <Image src={logo} width="200px" className="mx-auto" />
       </a>
       <br />
-      <h1 className="my-2 title bg-primary h1">League Of Legends Characters</h1>
+      <h1 className="my-2 title h1 dark:bg-gray-900">League Of Legends Characters <Switch /></h1>
     </Container>
   );
 };
