@@ -3,12 +3,26 @@ import { Col, Container, Row } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
 const LegendCard = ({ characters }) => {
   const [show, setShow] = useState(false);
+
+  // Win rate'i hesapla
+  const winRate = parseFloat(
+    characters.statistics
+      .find((item) => item.includes("Win Rate"))
+      .replace("% Win Rate", "")
+  );
+
+  // Dinamik stil oluştur
+  const style = {
+    backgroundColor: winRate > 50 ? "green" : "red",
+  };
+
   return (
     <Col>
       <Card
         className="player-card"
         role="button"
         onClick={() => setShow(!show)}
+        style={style} // Stili burada uygula
       >
         {!show ? (
           <Card.Img
@@ -21,10 +35,9 @@ const LegendCard = ({ characters }) => {
           <>
             <Card.Header>
               <Card.Title className="h2">
-                {" "}
                 <span className="name">{characters.name}</span>
               </Card.Title>
-              <span className="h4" style={{ color: "red" }}>
+              <span className="h4" style={{ color: "blue" }}>
                 {characters.role}
               </span>
             </Card.Header>
