@@ -21,7 +21,7 @@ const LegendContainer = () => {
     <div>
       <Form.Control
         type="search"
-        placeholder="Search league of legends characters"
+        placeholder="Search league of legends characters 🔍"
         onChange={handleChange}
         className="w-50 mx-auto my-2"
       />

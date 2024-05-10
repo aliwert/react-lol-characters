@@ -4,14 +4,14 @@ import Card from "react-bootstrap/Card";
 const LegendCard = ({ characters }) => {
   const [show, setShow] = useState(false);
 
-  // Win rate'i hesapla
+
   const winRate = parseFloat(
     characters.statistics
       .find((item) => item.includes("Win Rate"))
       .replace("% Win Rate", "")
   );
 
-  // Dinamik stil oluştur
+
   const style = {
     backgroundColor: winRate > 50 ? "green" : "red",
   };
@@ -22,7 +22,7 @@ const LegendCard = ({ characters }) => {
         className="player-card"
         role="button"
         onClick={() => setShow(!show)}
-        style={style} // Stili burada uygula
+        style={style}
       >
         {!show ? (
           <Card.Img
