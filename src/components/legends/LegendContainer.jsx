@@ -22,7 +22,7 @@ const LegendContainer = () => {
         type="search"
         placeholder="Search league of legends characters 🔍"
         onChange={handleChange}
-        className="w-50 mx-auto my-2 dark:bg-gray-900"
+        className="w-50 mx-auto my-2 dark:bg-gray-500"
       />
       <Container className="p-3 rounded-4 card-container my-3 dark:bg-gray-900">
         <Row xs={1} md={2} lg={3} className="justify-content-center g-3">
